@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "7a197c79-a347-4fe4-a996-65ff379edb90": {
+      "label": "testing",
+      "is_offline": false,
+      "file_url": "https://www.floridamemory.com/fpc/memory/Collections/folklife/folklife-MP3/T86-243.ogg",
+      "duration": 3530,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "testing ogg"
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "testing Ogg file",
+  "created_at": "2024-11-10T22:33:52.788Z",
+  "created_by": "tanyaclement",
+  "updated_at": "2024-11-10T22:33:52.788Z",
+  "updated_by": "tanyaclement"
+}
