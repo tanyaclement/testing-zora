@@ -1,0 +1,26 @@
+{
+  "audiovisual_files": {
+    "a9b9b765-d7f0-4dcf-9124-e3952faf96cb": {
+      "label": "AV File 1",
+      "file_url": "https://norman.hrc.utexas.edu/CDMmedia/p15878coll1/55.mp3",
+      "duration": 2032
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Testing"
+        }
+      ]
+    }
+  ],
+  "created_at": "2024-11-10T22:48:34.583Z",
+  "created_by": "tanyaclement",
+  "item_type": "Audio",
+  "label": "Imported Event 1",
+  "updated_at": "2024-11-10T22:48:34.583Z",
+  "updated_by": "tanyaclement"
+}
