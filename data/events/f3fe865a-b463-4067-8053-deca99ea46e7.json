@@ -5,7 +5,14 @@
       "is_offline": false,
       "file_url": "https://ia902306.us.archive.org/34/items/coitx-Inside_the_Movies_-_Shang-Chi_and_the_Legend_of_the_Ten_Rings/Inside_the_Movies_-_Shang-Chi_and_the_Legend_of_the_Ten_Rings.mp4",
       "duration": 280,
-      "caption_set": []
+      "caption_set": [
+        {
+          "annotation_page_id": "162f2605-ac9e-45ff-b6bc-ddc187ae90ed"
+        },
+        {
+          "annotation_page_id": "cad00172-db86-4e99-a6af-35402b1023b8"
+        }
+      ]
     }
   },
   "auto_generate_web_page": true,
@@ -28,6 +35,6 @@
   "label": "Inside the Movies Shang-Chi and the Legend of the Ten Rings",
   "created_at": "2024-11-11T22:16:10.737Z",
   "created_by": "tanyaclement",
-  "updated_at": "2024-11-11T22:20:37.051Z",
+  "updated_at": "2024-11-11T22:27:25.125Z",
   "updated_by": "tanyaclement"
 }
