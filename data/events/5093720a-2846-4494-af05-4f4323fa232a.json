@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "07c76fd2-b9dd-4144-9dab-e3f7bfd80f5d": {
+      "label": "AV File 3",
+      "file_url": "https://hrc.contentdm.oclc.org/digital/iiif/p15878coll1/56/full/full/0/default.jpg",
+      "duration": 0
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-06-30T20:53:20.718Z",
+  "created_by": "tanyaclement",
+  "item_type": "Audio",
+  "label": "Audio recording of Dr. Martin Luther King, Jr. speaking to the press following the 1966 Alabama Democratic Primary",
+  "updated_at": "2025-06-30T20:53:20.718Z",
+  "updated_by": "tanyaclement",
+  "rights_statement": "http://rightsstatements.org/vocab/InC/1.0/"
+}
