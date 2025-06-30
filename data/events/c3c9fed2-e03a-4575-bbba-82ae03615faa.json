@@ -1,0 +1,30 @@
+{
+  "audiovisual_files": {
+    "12e3a67a-e50a-4c36-b169-cca253c7bf30": {
+      "label": "testing camille IA",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://ia803204.us.archive.org/34/items/Camille1921/Camille%201921.mp4",
+      "duration": 304,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "testing camille",
+  "created_at": "2025-06-30T19:51:45.071Z",
+  "created_by": "tanyaclement",
+  "updated_at": "2025-06-30T19:51:45.071Z",
+  "updated_by": "tanyaclement"
+}
