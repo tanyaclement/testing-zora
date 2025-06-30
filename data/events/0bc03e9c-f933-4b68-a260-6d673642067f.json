@@ -1,0 +1,26 @@
+{
+  "audiovisual_files": {
+    "fa20560e-04d3-4c35-889f-34ebadd872ba": {
+      "label": "AV File 1",
+      "file_url": "https://aviary-p-ualberta.s3.wasabisys.com/collection_resource_files/resource_files/000/134/067/original/88-47-210-a.wav?1660731745",
+      "duration": 3585.81116
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-06-30T21:06:18.390Z",
+  "created_by": "tanyaclement",
+  "item_type": "Audio",
+  "label": "VoicePrint: Canadian English & Literature",
+  "updated_at": "2025-06-30T21:06:18.390Z",
+  "updated_by": "tanyaclement"
+}

@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-06-30T21:06:19.479Z",
+  "created_by": "tanyaclement",
+  "title": "VoicePrint: Canadian English & Literature",
+  "slug": "voiceprint-canadian-english-and-literature",
+  "updated_at": "2025-06-30T21:06:19.479Z",
+  "updated_by": "tanyaclement",
+  "parent": "bd093526-5344-4d49-ad94-f779820ef09d",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "0bc03e9c-f933-4b68-a260-6d673642067f"
+  }
+}

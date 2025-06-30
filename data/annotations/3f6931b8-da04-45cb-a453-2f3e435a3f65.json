@@ -1,0 +1,3033 @@
+{
+  "event_id": "0bc03e9c-f933-4b68-a260-6d673642067f",
+  "source_id": "fa20560e-04d3-4c35-889f-34ebadd872ba",
+  "set": "[AssemblyAI Transcript] 88-47-210-a.wav [Transcript]",
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 16,
+      "annotation": [
+        {
+          "text": "Music:",
+          "bold": true
+        },
+        {
+          "text": " [Electronic Music]"
+        }
+      ],
+      "tags": [],
+      "uuid": "335afcfc-f658-4e57-a916-6f978292a798"
+    },
+    {
+      "start_time": 16,
+      "end_time": 35.365,
+      "annotation": [
+        {
+          "text": "Male Voice:",
+          "bold": true
+        },
+        {
+          "text": " VoicePrint. [Electronic Music Continues] Speech, language, communications technology, and the literary arts in a changing world. [Electronic Music Continues] Fast forward. [Electronic Music Ends]"
+        }
+      ],
+      "tags": [],
+      "uuid": "5835d866-c131-4a8a-874d-e7ba85c90dd8"
+    },
+    {
+      "start_time": 35.365,
+      "end_time": 52,
+      "annotation": [
+        {
+          "text": "Jars Balan:",
+          "bold": true
+        },
+        {
+          "text": " Have you ever had the experience, traveling in Britain or the United States, of being told by someone that you speak English with an accent? Have you ever noticed how people in the Maritimes have different expressions and pronunciations from those heard in Saskatchewan or in British Columbia?"
+        }
+      ],
+      "tags": [],
+      "uuid": "277136fa-6d66-4aad-837e-d7522119d3bc"
+    },
+    {
+      "start_time": 52,
+      "end_time": 80,
+      "annotation": [
+        {
+          "text": "Jars Balan:",
+          "bold": true
+        },
+        {
+          "text": " On this edition of VoicePrint, we look at the English spoken in Canada, its history, its unique features, and its regional variations. And on Literary Supplement, we feature a fascinating talk about the Canadian literary movement in the 1960s with poet and novelist Margaret Atwood. So listen in as we examine what Charlie Farquharson calls \"Canadjian English,\" and what is popularly referred to as CanLit."
+        }
+      ],
+      "tags": [],
+      "uuid": "f201783b-1004-4f94-83db-496635c8b980"
+    },
+    {
+      "start_time": 80,
+      "end_time": 82.113,
+      "annotation": [
+        {
+          "text": "Male Voice:",
+          "bold": true
+        },
+        {
+          "text": " Word Works."
+        }
+      ],
+      "tags": [],
+      "uuid": "303d88f5-e41b-4771-a46b-87c26963a526"
+    },
+    {
+      "start_time": 82.113,
+      "end_time": 89,
+      "annotation": [
+        {
+          "text": "Don Harron:",
+          "bold": true
+        },
+        {
+          "text": " Well, my God, you'll be beginning to wonder, how did Canada ever get started for to get settled by your permanents?"
+        }
+      ],
+      "tags": [],
+      "uuid": "02110686-f869-420f-bb92-be43522fc005"
+    },
+    {
+      "start_time": 89,
+      "end_time": 102.425,
+      "annotation": [
+        {
+          "text": "Don Harron:",
+          "bold": true
+        },
+        {
+          "text": " I know there was something fishy about the start of this country, but well, sir, leave it to beaver for to settle down Canada. Now this damn animal is really the mother of our country on account of the hair on its back being so desecrative."
+        }
+      ],
+      "tags": [],
+      "uuid": "940db9c2-3ff1-4c79-adff-528fcf0fdb58"
+    },
+    {
+      "start_time": 102.425,
+      "end_time": 119.555,
+      "annotation": [
+        {
+          "text": "Don Harron:",
+          "bold": true
+        },
+        {
+          "text": " Jack Carter took a couple of skins back along with his scurfy, and pretty soon all your high mucky muck parasites wanted to get felt. That's how your beaver soon become number one in your hat parade. And that's why your simple minded government people has chose the beaver as our national ember."
+        }
+      ],
+      "tags": [],
+      "uuid": "953e61b1-5cc0-4c00-9deb-a2735a0f7730"
+    },
+    {
+      "start_time": 119.555,
+      "end_time": 145.145,
+      "annotation": [
+        {
+          "text": "Anna Altman:",
+          "bold": true
+        },
+        {
+          "text": " Charlie Farquharson may not know much about the history of the beaver, but his creator, Don Herron, does know something about the English that is spoken in rural Ontario. That Charlie's speech is a gross parody of a sub dialect of Canadian English is no doubt obvious to most of his Canadian fans. Consciously or not, they recognize some of their own speech habits in his fractured and punny English."
+        }
+      ],
+      "tags": [],
+      "uuid": "dae7782b-b75f-4894-a2a4-4a09a2573ef4"
+    },
+    {
+      "start_time": 145.145,
+      "end_time": 161.665,
+      "annotation": [
+        {
+          "text": "Anna Altman:",
+          "bold": true
+        },
+        {
+          "text": " But as Canadians, we are probably most conscious of the uniqueness of our English when we travel to Britain or the United States. There, we soon realize that many of our pronunciations and expressions immediately identify us as foreigners, if not Canucks."
+        }
+      ],
+      "tags": [],
+      "uuid": "f60b3140-ec59-4e09-aa95-affe7938ce7b"
+    },
+    {
+      "start_time": 161.665,
+      "end_time": 179.425,
+      "annotation": [
+        {
+          "text": "Anna Altman:",
+          "bold": true
+        },
+        {
+          "text": " On the most obvious level, we have different words for some objects, such as pop for soda, and Chesterfield for sofa, although the latter distinction may be fading. We also have spelling differences that distinguish us from both the British and the Americans."
+        }
+      ],
+      "tags": [],
+      "uuid": "1edb9a90-1e5c-4dda-87f6-ee0e4b0e9346"
+    },
+    {
+      "start_time": 179.425,
+      "end_time": 194,
+      "annotation": [
+        {
+          "text": "Anna Altman:",
+          "bold": true
+        },
+        {
+          "text": " We asked Dr. Jack Chambers of the University of Toronto to describe for us some of the unique features of our speech, and to explain the historical background to Canadian English. VoicePrint researcher Jars Balan talked with him in Toronto."
+        }
+      ],
+      "tags": [],
+      "uuid": "da804955-97f5-458b-bf8c-650b6cfb6d71"
+    },
+    {
+      "start_time": 194,
+      "end_time": 201.115,
+      "annotation": [
+        {
+          "text": "Jars Balan:",
+          "bold": true
+        },
+        {
+          "text": " When did people become conscious that Canadian English was somehow different from American or British English?"
+        }
+      ],
+      "tags": [],
+      "uuid": "26383ec9-85a9-487e-932f-e8708859ed48"
+    },
+    {
+      "start_time": 201.115,
+      "end_time": 248.815,
+      "annotation": [
+        {
+          "text": "Jack Chambers:",
+          "bold": true
+        },
+        {
+          "text": " The first literary reference to the distinctness of Canadian English was made in 1857, so 10 years before Confederation, by a Scot named the Reverend A.C. Geikie. And he delivered a paper called Canadian English to the Canada Club, which was a kind of... the governors, the gentry of the day, assembled to talk about how things were going in the colonies. And his paper, called Canadian English, which is, as far as I know, the first reference to the notion of Canadian English as an entity. And he referred to it as a language \"as debased from its glorious mother tongue, as is the Negro Patois,\" he said."
+        }
+      ],
+      "tags": [],
+      "uuid": "d43c66e5-7369-45f8-ab77-510825376d19"
+    },
+    {
+      "start_time": 248.815,
+      "end_time": 275.395,
+      "annotation": [
+        {
+          "text": "Jack Chambers:",
+          "bold": true
+        },
+        {
+          "text": " So, he was well aware of a difference, a distinctive difference in Canadian... He mentions specifically periodical literature and the language that one hears around one in 1857 as being distinctively different from the English that was spoken by the colonizers, by the mother country."
+        }
+      ],
+      "tags": [],
+      "uuid": "7b07922d-29cd-44de-88a7-3acc1e941242"
+    },
+    {
+      "start_time": 275.395,
+      "end_time": 300.285,
+      "annotation": [
+        {
+          "text": "Jack Chambers:",
+          "bold": true
+        },
+        {
+          "text": " So, that's the first literary reference. Now, as always, things don't get into writing until they've been a fact for a little while. And so I suspect that there had been some discussion informally among the gentry of the day prior to that, about what was happening around them, about the English that was being heard on all sides."
+        }
+      ],
+      "tags": [],
+      "uuid": "4fd84d2c-98cf-45a9-a8c9-2ad8741f06a7"
+    },
+    {
+      "start_time": 300.285,
+      "end_time": 327.235,
+      "annotation": [
+        {
+          "text": "Jack Chambers:",
+          "bold": true
+        },
+        {
+          "text": " And one thing that Geikie was incapable of doing, of course, was making a contrast. And he couldn't say, he wasn't astute enough linguistically to know, apparently, whether he found Canadian English distinctive from American English, from the English south of the border, as well as from British English. But his preoccupation was with the contrast between Canadian English and British English."
+        }
+      ],
+      "tags": [],
+      "uuid": "98525ecf-9455-430f-85aa-c31f7841223a"
+    },
+    {
+      "start_time": 327.235,
+      "end_time": 348.635,
+      "annotation": [
+        {
+          "text": "Jack Chambers:",
+          "bold": true
+        },
+        {
+          "text": " And so whether any of the distinctive differences between Canadian English and American English, which tend to be quite subtle things, whether any of those had developed by 1857, we had no way of knowing. But it definitely was distinctive from the British English of the day by that time."
+        }
+      ],
+      "tags": [],
+      "uuid": "590821f8-e2ae-4362-a9f9-21aafaf2e7dc"
+    },
+    {
+      "start_time": 348.635,
+      "end_time": 397.275,
+      "annotation": [
+        {
+          "text": "Jack Chambers:",
+          "bold": true
+        },
+        {
+          "text": " Now, that's just about right, as a linguist might see it, because the distinctiveness of Canadian English really began with the sort of post-Loyalist influx from the United States. The Revolutionary War in the United States in 1775, as most Canadians know, gave rise to a group of people fleeing from the United States into Canada. Those people were known in Canada as United Empire Loyalists, and they're known in the United States as Tories, an influx of perhaps 40,000 or more into Nova Scotia, mainly from New England."
+        }
+      ],
+      "tags": [],
+      "uuid": "19b0d46e-8d2b-4c19-aa8a-acfcd9329ffd"
+    },
+    {
+      "start_time": 397.275,
+      "end_time": 415.467,
+      "annotation": [
+        {
+          "text": "Jack Chambers:",
+          "bold": true
+        },
+        {
+          "text": " And those New Englanders tended to be highly placed individuals, people of property and people of considerable education, very often educated in the old country. And that's probably where their allegiance to England came from, because of their close contact."
+        }
+      ],
+      "tags": [],
+      "uuid": "9220502f-caa3-4d0b-a02d-5c567bc3e03e"
+    },
+    {
+      "start_time": 415.467,
+      "end_time": 441.453,
+      "annotation": [
+        {
+          "text": "Jack Chambers:",
+          "bold": true
+        },
+        {
+          "text": " So they moved into the Maritimes, and then, that group of United Empire Loyalists in the Maritimes seems largely to have dispersed. Many of them ultimately went back to the old country, did not stay, and did not have the kind of impact that an influx of 40,000 or more people would have had at the time, because they left."
+        }
+      ],
+      "tags": [],
+      "uuid": "bb4f16c5-e261-4d90-8dbc-014157cf5a20"
+    },
+    {
+      "start_time": 441.453,
+      "end_time": 471.215,
+      "annotation": [
+        {
+          "text": "Jack Chambers:",
+          "bold": true
+        },
+        {
+          "text": " Also, many of them came down to St. Lawrence and settled in the Eastern Townships of Quebec, which has a distinctively United Empire Loyalist caste. And many of them came on much further into the Great Lakes Basin. But their effect on the speech of Canada was no doubt considerable, because they doubled the population practically, or more than doubled it wherever they settled."
+        }
+      ],
+      "tags": [],
+      "uuid": "20023916-4775-4167-80ab-3fbd06c370b9"
+    },
+    {
+      "start_time": 471.215,
+      "end_time": 506.155,
+      "annotation": [
+        {
+          "text": "Jack Chambers:",
+          "bold": true
+        },
+        {
+          "text": " But in Ontario, it wasn't so much the United Empire Loyalists, properly speaking, because there's always been a distinction made about whether people came to Canada immediately following the Revolutionary War, or whether they came a few years after that. But the great influx into Ontario was called post-Loyalist, and it was from the United States, and it was in the 1790s and 1810s, in that area, and particularly into the Niagara Peninsula, where my roots happened to be."
+        }
+      ],
+      "tags": [],
+      "uuid": "8be520d3-5155-433b-b077-77486a1a1c7f"
+    },
+    {
+      "start_time": 506.155,
+      "end_time": 544,
+      "annotation": [
+        {
+          "text": "Jack Chambers:",
+          "bold": true
+        },
+        {
+          "text": " And there were at least 10,000 of these post-Loyalists moved into the Niagara Peninsula, at the time. And there were virtually no settlements there until they arrived. So, naturally, they made the settlements, made the farms, they set the pattern of the day. And the reason that Canadian English sounds so similar to American English is because of this movement of people after, following the Revolutionary War. So the Canadian English and American English had close interchange at the very beginning of Canadian English."
+        }
+      ],
+      "tags": [],
+      "uuid": "82c4bc72-c619-45bb-9632-8ddde478440c"
+    },
+    {
+      "start_time": 544,
+      "end_time": 552.023,
+      "annotation": [
+        {
+          "text": "Jars Balan:",
+          "bold": true
+        },
+        {
+          "text": " Is it possible to speak of Canadian English as being a separate dialect, or is it really a branch of American English, a sub-dialect?"
+        }
+      ],
+      "tags": [],
+      "uuid": "c4295abd-ec8f-4412-9699-d36c37073d65"
+    },
+    {
+      "start_time": 552.023,
+      "end_time": 572.813,
+      "annotation": [
+        {
+          "text": "Jack Chambers:",
+          "bold": true
+        },
+        {
+          "text": " Well, yeah, I think it's a sub-dialect of American English, which means that you can speak of Canadian English as an entity. I mean, there are enough distinctions because Canadian English has now had well over a century to establish itself and to develop in characteristic ways."
+        }
+      ],
+      "tags": [],
+      "uuid": "d5165142-6674-4533-9059-0c2103d59b58"
+    },
+    {
+      "start_time": 572.813,
+      "end_time": 597,
+      "annotation": [
+        {
+          "text": "Jack Chambers:",
+          "bold": true
+        },
+        {
+          "text": " Canadian English has a number of features which distinguish it from other varieties of American English. It nevertheless is a variety of American English. I mean, that's unavoidable, just as, in a way, just as the English spoken in Wiltshire and Dorset in England is a branch of English English. All the same, it doesn't sound much like Liverpool English."
+        }
+      ],
+      "tags": [],
+      "uuid": "b1df07b6-c100-403e-a658-7f485447df5f"
+    },
+    {
+      "start_time": 597,
+      "end_time": 601.019,
+      "annotation": [
+        {
+          "text": "Jars Balan:",
+          "bold": true
+        },
+        {
+          "text": " What is the most striking difference between Canadian English and American English?"
+        }
+      ],
+      "tags": [],
+      "uuid": "7ef2d031-d05b-440c-8e02-18198eaf53c5"
+    },
+    {
+      "start_time": 601.019,
+      "end_time": 638.369,
+      "annotation": [
+        {
+          "text": "Jack Chambers:",
+          "bold": true
+        },
+        {
+          "text": " Well, there are two very, sort of, deep seated distinctions. So if you wanted to distinguish a speaker of North American English to discover whether he's a Canadian speaker or a non-Canadian speaker, I think the very best way in terms of the structure of the language would be to ask him to pronounce pairs of, certain pairs of words, such as the man's name, Paul, right, and the pall which people bear when they go to a funeral."
+        }
+      ],
+      "tags": [],
+      "uuid": "30956613-3a0c-41a3-9c2a-bc9930b62e22"
+    },
+    {
+      "start_time": 638.369,
+      "end_time": 653.645,
+      "annotation": [
+        {
+          "text": "Jack Chambers:",
+          "bold": true
+        },
+        {
+          "text": " P, A, U, L, and P, A, L, L. If you ask a person to pronounce that, and if he says, as I just said, \"Paul and pall,\" you say, \"Hey, those sound identical.\" And that's exactly right. That's a feature of Canadian English."
+        }
+      ],
+      "tags": [],
+      "uuid": "184596aa-3470-4382-a00b-ad2782ca1615"
+    },
+    {
+      "start_time": 653.645,
+      "end_time": 686,
+      "annotation": [
+        {
+          "text": "Jack Chambers:",
+          "bold": true
+        },
+        {
+          "text": " But in the United States, those two words don't sound identical at all. And the first one, the man's name, Paul, sounds like \"Paul.\" Now, that's a very subtle distinction. You have to be able to hear it. You have to be aware of what the distinction is. But \"Paul,\" the American pronunciation, which I just emphasized more than an American would, has a rounded vowel in it. And you can see the lips rounding when it's pronounced. On the other hand, the pall that one bears when one goes to a funeral, that has an unrounded vowel."
+        }
+      ],
+      "tags": [],
+      "uuid": "5c0339f0-5fd1-4a86-b0da-2c9d1617bf13"
+    },
+    {
+      "start_time": 686,
+      "end_time": 715.255,
+      "annotation": [
+        {
+          "text": "Jack Chambers:",
+          "bold": true
+        },
+        {
+          "text": " You get this in all kinds of pairs of words where Canadians make no distinction, so that the cot that one sleeps on, right, a little cot, and the past tense of the verb catch or \"he caught somebody,\" those things, those two words sound identical, for when a Canadian says them, cot and caught, those words are pronounced identically. But in the United States, as in England as well, those words are distinguished so that the cot that one sleeps on is pronounced much as I just pronounced it, \"cot.\""
+        }
+      ],
+      "tags": [],
+      "uuid": "b61c52df-bf62-4ced-a815-2ba6c869da0a"
+    },
+    {
+      "start_time": 715.255,
+      "end_time": 732.765,
+      "annotation": [
+        {
+          "text": "Jack Chambers:",
+          "bold": true
+        },
+        {
+          "text": " But the past tense of catch is pronounced \"caught\" with a rounded vowel. And you can, the distinction is, Paul-pall and caught-cot. Where I've just emphasized that so that the listeners might be able to pick up the difference a little more easily."
+        }
+      ],
+      "tags": [],
+      "uuid": "4404c1d3-7270-4d5a-b3dd-bde8a9f82088"
+    },
+    {
+      "start_time": 732.765,
+      "end_time": 752.069,
+      "annotation": [
+        {
+          "text": "Jack Chambers:",
+          "bold": true
+        },
+        {
+          "text": " When you get a lot of the rounded vowels that are American in the speech of an individual, I mean, they tend to come up frequently in any conversation. Those vowels will show up again and again and again and again. And it's no great trick really to discover that somebody has an American accent as opposed to a Canadian."
+        }
+      ],
+      "tags": [],
+      "uuid": "4983c0f0-13b5-416b-ab18-dca7328d7924"
+    },
+    {
+      "start_time": 752.069,
+      "end_time": 775.435,
+      "annotation": [
+        {
+          "text": "Jack Chambers:",
+          "bold": true
+        },
+        {
+          "text": " So that's one of, that's a key structural difference. Because what it means is that Canadians do not have a vowel that virtually every other English speaking area in the world has. That rounded vowel that Canadians don't have is found in Australia, New Zealand, South Africa, the United States and all other places where English is spoken, but not in Canada."
+        }
+      ],
+      "tags": [],
+      "uuid": "c6f26ec8-60cf-4441-88b2-99cc557bdc5b"
+    },
+    {
+      "start_time": 775.435,
+      "end_time": 794.347,
+      "annotation": [
+        {
+          "text": "Jack Chambers:",
+          "bold": true
+        },
+        {
+          "text": " How it got here, probably, is because in western Pennsylvania that distinction has also been lost. And western Pennsylvania is one of the areas from which the post-Loyalists moved up to Canada. So for some reason it caught on in Canada and spread across the entire country."
+        }
+      ],
+      "tags": [],
+      "uuid": "b4a6d1bf-685d-41d5-8979-afb2f55cda6b"
+    },
+    {
+      "start_time": 794.347,
+      "end_time": 805.345,
+      "annotation": [
+        {
+          "text": "Jack Chambers:",
+          "bold": true
+        },
+        {
+          "text": " That's one of the distinctions. The other one I think you'll find a little easier to hear. And it's a phenomenon that's called Canadian raising."
+        }
+      ],
+      "tags": [],
+      "uuid": "6402ae5e-2559-4095-86d4-61e77048415a"
+    },
+    {
+      "start_time": 805.345,
+      "end_time": 839.195,
+      "annotation": [
+        {
+          "text": "Jack Chambers:",
+          "bold": true
+        },
+        {
+          "text": " And what happens is, Canadians have a distinctive pronunciation of certain long vowels. So that almost any Canadian who's lived for any length of time in the United States will have had this pointed out to him. And it seems very noticeable. But in words like house, south, lout, rout, all of those vowels that sound like \"owu\" in Canada sound like \"ow\" elsewhere. So you get \"house\" as opposed to \"house.\""
+        }
+      ],
+      "tags": [],
+      "uuid": "0da2417c-c608-4f07-aac8-e984373d6c3f"
+    },
+    {
+      "start_time": 839.195,
+      "end_time": 858.785,
+      "annotation": [
+        {
+          "text": "Jack Chambers:",
+          "bold": true
+        },
+        {
+          "text": " And what makes this interesting, linguistically, in Canada is that you can find pairs of words which are identical words but have a different linguistic context, where in Canada, the two you get the vowel difference. So \"house\" and \"houses.\""
+        }
+      ],
+      "tags": [],
+      "uuid": "2daf3521-43f7-4910-b619-2769b1bf4519"
+    },
+    {
+      "start_time": 858.785,
+      "end_time": 875.025,
+      "annotation": [
+        {
+          "text": "Jack Chambers:",
+          "bold": true
+        },
+        {
+          "text": " If you say the vowel in \"houses\" in \"house,\" what you say is \"house,\" which is not how the Canadians pronounce it at all. The same happens in the plural of \"mouth,\" right? You get \"mouth,\" but \"mouths.\""
+        }
+      ],
+      "tags": [],
+      "uuid": "1aa6959a-05dd-40da-b0c4-31ef69e7d42b"
+    },
+    {
+      "start_time": 875.025,
+      "end_time": 890.845,
+      "annotation": [
+        {
+          "text": "Jack Chambers:",
+          "bold": true
+        },
+        {
+          "text": " And there are a number of these things. Now, this also happens with the second vowel as well as the \"owu\" vowel. It happens in the \"i\" vowel. And you can also hear this in words like wife and life and mice, those kinds of words."
+        }
+      ],
+      "tags": [],
+      "uuid": "53f061fd-6605-425c-9c0a-f8cd3c165877"
+    },
+    {
+      "start_time": 890.845,
+      "end_time": 905.085,
+      "annotation": [
+        {
+          "text": "Jack Chambers:",
+          "bold": true
+        },
+        {
+          "text": " So that once again, you get a distinction in the vowel of \"wife\" as opposed to \"wives.\" So that \"wives\" has a vowel \"i,\" but \"wife\" has a vowel \"iee.\""
+        }
+      ],
+      "tags": [],
+      "uuid": "ef8fa0f7-b490-4a4f-bfcc-21f6a552361e"
+    },
+    {
+      "start_time": 905.085,
+      "end_time": 918.145,
+      "annotation": [
+        {
+          "text": "Jack Chambers:",
+          "bold": true
+        },
+        {
+          "text": " Whereas in other parts of the English speaking world, in many other parts of the English speaking world, those two vowels are identical. So that \"wife\" and \"wives\" have the same vowel as opposed to \"wife\" and \"wives.\""
+        }
+      ],
+      "tags": [],
+      "uuid": "280c7466-1d01-4fa1-b261-b534747157e5"
+    },
+    {
+      "start_time": 918.145,
+      "end_time": 936.283,
+      "annotation": [
+        {
+          "text": "Jack Chambers:",
+          "bold": true
+        },
+        {
+          "text": " That's called Canadian raising. Those are a little subtle, a little difficult to hear at first until you have your attention drawn to them enough times. I know it takes me a few hours with my linguistic students to get them to hear those consistently. But they're there and they're very real."
+        }
+      ],
+      "tags": [],
+      "uuid": "960b22df-e5a1-44c6-aff7-196476e43005"
+    },
+    {
+      "start_time": 936.283,
+      "end_time": 950,
+      "annotation": [
+        {
+          "text": "Jack Chambers:",
+          "bold": true
+        },
+        {
+          "text": " And people instinctively know that there's something different even when they don't identify them, as I've just done, not as a linguist would. People know that they're there and can pick them out."
+        }
+      ],
+      "tags": [],
+      "uuid": "d4219534-0964-4d16-97d6-6622fe24bae7"
+    },
+    {
+      "start_time": 950,
+      "end_time": 955,
+      "annotation": [
+        {
+          "text": "Music:",
+          "bold": true
+        },
+        {
+          "text": " [Faint Music]"
+        }
+      ],
+      "tags": [],
+      "uuid": "03a7a3f4-3bf7-4a6c-8d64-583ee1b3d1ed"
+    },
+    {
+      "start_time": 955,
+      "end_time": 959.155,
+      "annotation": [
+        {
+          "text": "Male Voice:",
+          "bold": true
+        },
+        {
+          "text": " Parenthesis."
+        }
+      ],
+      "tags": [],
+      "uuid": "d2c13f6d-c619-4911-9c45-6a8f0cbed878"
+    },
+    {
+      "start_time": 959.155,
+      "end_time": 976.455,
+      "annotation": [
+        {
+          "text": "Roman Onufrijchuk:",
+          "bold": true
+        },
+        {
+          "text": " It is interesting to note that a dialect of English indigenous to Canada did emerge in the Red River District in the 19th century. This dialect arose out of the contact, interaction, and intermarriages between Scots and Orkney settlers and the local Cree population."
+        }
+      ],
+      "tags": [],
+      "uuid": "84c80e9c-3ab8-41bb-a9f5-8d1110bea2c5"
+    },
+    {
+      "start_time": 976.455,
+      "end_time": 1005,
+      "annotation": [
+        {
+          "text": "Roman Onufrijchuk:",
+          "bold": true
+        },
+        {
+          "text": " What generally happened was that the children of English speaking fathers and Cree mothers developed a distinct style of speaking called bungee or bungay, a dialect that was 90% English, but had an extensive native vocabulary with occasional French borrowings, and sometimes used Cree or Ojibwa constructions. It is estimated that some 5,000 people were speakers of bungee when Manitoba entered into Confederation in 1870."
+        }
+      ],
+      "tags": [],
+      "uuid": "db40126c-6426-4b75-94e9-0af1bafe8e1c"
+    },
+    {
+      "start_time": 1005,
+      "end_time": 1015.635,
+      "annotation": [
+        {
+          "text": "Music:",
+          "bold": true
+        },
+        {
+          "text": " [Faint Music]"
+        }
+      ],
+      "tags": [],
+      "uuid": "04058c87-79f9-4c01-8463-76959e143c2b"
+    },
+    {
+      "start_time": 1015.635,
+      "end_time": 1018.963,
+      "annotation": [
+        {
+          "text": "Jars Balan:",
+          "bold": true
+        },
+        {
+          "text": " Which part of the country is richest in regional dialect?"
+        }
+      ],
+      "tags": [],
+      "uuid": "4ce8497f-561b-404f-ba2e-f8e49bc3baa0"
+    },
+    {
+      "start_time": 1018.963,
+      "end_time": 1055.097,
+      "annotation": [
+        {
+          "text": "Jack Chambers:",
+          "bold": true
+        },
+        {
+          "text": " Oh, the Atlantic coast. Newfoundland in particular, the entire Atlantic seaboard, is rich in dialect. But Newfoundland is... it has wonderful variety, extraordinary variety from a Canadian or from a North American dialectologist's point of view. And the reason for that is very obvious because the settlement history of Newfoundland goes back centuries, centuries and centuries ago. In fact, the English flag was planted in Newfoundland in 1520, I believe, it was taken as a possession in 1520."
+        }
+      ],
+      "tags": [],
+      "uuid": "202a2050-80bf-49df-be3f-96d5e2b14382"
+    },
+    {
+      "start_time": 1055.097,
+      "end_time": 1085.475,
+      "annotation": [
+        {
+          "text": "Jack Chambers:",
+          "bold": true
+        },
+        {
+          "text": " Now, there were only transient settlements there. The fishermen had settlements there in season and then went back home to the west country of England or to Portugal or wherever they had come from for the rest of the year, for the first century or so. But by 1650, Newfoundland was already beginning to be settled and with a long settlement history."
+        }
+      ],
+      "tags": [],
+      "uuid": "bc6bb45d-7959-4ca0-9f56-3da055d2f164"
+    },
+    {
+      "start_time": 1085.475,
+      "end_time": 1110.285,
+      "annotation": [
+        {
+          "text": "Jack Chambers:",
+          "bold": true
+        },
+        {
+          "text": " What happens is you get distinctive speech growing up. More than that, too, Newfoundland has an interesting settlement history because parts of it were settled by people from the west country, that is, from Dorset and Devon and Cornwall in England. Parts of it were settled, especially in the 1700s, by Irish immigrants who were escaping from the potato famine."
+        }
+      ],
+      "tags": [],
+      "uuid": "df4e44ff-2b95-4095-ad83-cbac4315af6d"
+    },
+    {
+      "start_time": 1110.285,
+      "end_time": 1138.119,
+      "annotation": [
+        {
+          "text": "Jack Chambers:",
+          "bold": true
+        },
+        {
+          "text": " And so you get these two distinctive strains in various parts of the country, then, settling for 300 or 400 years or whatever it is by now, and developing independently of one another as well. So in Newfoundland, the variety is very similar to the kind of linguistic variety that you can find in Europe, that you expect to find in Europe. And the reason is because its settlement history is much, much longer."
+        }
+      ],
+      "tags": [],
+      "uuid": "0cdb9ee9-cac9-4a66-a484-a3fd029d8d09"
+    },
+    {
+      "start_time": 1138.119,
+      "end_time": 1168.209,
+      "annotation": [
+        {
+          "text": "Jack Chambers:",
+          "bold": true
+        },
+        {
+          "text": " But something very similar happens in the Maritime provinces as well, where they have a fairly long settlement history, not as long as Newfoundland, but a fairly long settlement history. And they were settled in various ways. There were a lot of west country settlers there in the original group, because the west country people were the mariners, the sailors from England. And so they naturally got out and put down stakes."
+        }
+      ],
+      "tags": [],
+      "uuid": "4178c8d2-572e-4f0f-a189-1cdc5669c75e"
+    },
+    {
+      "start_time": 1168.209,
+      "end_time": 1198.395,
+      "annotation": [
+        {
+          "text": "Jack Chambers:",
+          "bold": true
+        },
+        {
+          "text": " Also in the Maritimes, a large influx of Scottish settlers and Irish settlers in the 1800s, which means that the English that was transplanted to that part of Canada had a distinctive sound to start with and has retained some of its distinctiveness in that way. So you get tremendous variety all along the Atlantic seaboard in Canada, just as you do incidentally, along the Atlantic seaboard in the United States."
+        }
+      ],
+      "tags": [],
+      "uuid": "dd25d5e0-9358-4928-aaf6-e01b86c10ef6"
+    },
+    {
+      "start_time": 1198.395,
+      "end_time": 1214.645,
+      "annotation": [
+        {
+          "text": "Jack Chambers:",
+          "bold": true
+        },
+        {
+          "text": " The most varied speech patterns in all of North America are all along the Atlantic seaboard. And the reason for that is because it's historical. The settlement history is longest along the Atlantic seaboard, both in the United States and in Canada."
+        }
+      ],
+      "tags": [],
+      "uuid": "aa91ffcc-a208-4176-8448-3856a12f5f82"
+    },
+    {
+      "start_time": 1214.645,
+      "end_time": 1220,
+      "annotation": [
+        {
+          "text": "Anna Altman:",
+          "bold": true
+        },
+        {
+          "text": " Dr. Jack Chambers is a professor of linguistics at the University of Toronto."
+        }
+      ],
+      "tags": [],
+      "uuid": "37a89282-c90f-42b0-bbeb-b2fc2b16b95b"
+    },
+    {
+      "start_time": 1220,
+      "end_time": 1226.625,
+      "annotation": [
+        {
+          "text": "Music:",
+          "bold": true
+        },
+        {
+          "text": " [Electronic Music]"
+        }
+      ],
+      "tags": [],
+      "uuid": "0aec5926-9c82-47b3-be74-8aaf13d4232c"
+    },
+    {
+      "start_time": 1226.625,
+      "end_time": 1228.005,
+      "annotation": [
+        {
+          "text": "Male Voice:",
+          "bold": true
+        },
+        {
+          "text": " Dictionary definitions."
+        }
+      ],
+      "tags": [],
+      "uuid": "89a17b74-dbe9-4982-a7a5-892d90155c9a"
+    },
+    {
+      "start_time": 1228.005,
+      "end_time": 1251.925,
+      "annotation": [
+        {
+          "text": "Anna Altman:",
+          "bold": true
+        },
+        {
+          "text": " Have you ever wondered about the origins of some of the words that are intimately intertwined with our national identity? We asked resident etymologist Dr. Richard Brown to tell us about the histories of four words that are sure to strike a responsive chord with all Canadians. Hockey, the name Canada, maple, and beaver."
+        }
+      ],
+      "tags": [],
+      "uuid": "d57ebb7f-ff71-4bea-93d3-29d1afdb7088"
+    },
+    {
+      "start_time": 1251.925,
+      "end_time": 1275,
+      "annotation": [
+        {
+          "text": "Richard Brown:",
+          "bold": true
+        },
+        {
+          "text": " Well, when I start seeking Canadiana in vocabulary, what I find is words of long established European origin. And I started out with number one on my list here. \"Hockey\" first occurs in English, 1527, long before North American colonization, let it be noted."
+        }
+      ],
+      "tags": [],
+      "uuid": "b2998167-6e1b-4562-878f-65a262eaf9ef"
+    },
+    {
+      "start_time": 1275,
+      "end_time": 1297.675,
+      "annotation": [
+        {
+          "text": "Richard Brown:",
+          "bold": true
+        },
+        {
+          "text": " Probably comes from Old French \"hoquet\" or \"'oquet\" meaning a bent club or shepherd's crook, which is apparently a diminutive. The \"et\" like \"eh\" and \"et\" diminutive, a diminutive which fantastically enough is probably of Etruscan origin."
+        }
+      ],
+      "tags": [],
+      "uuid": "2febcbd7-e867-4a93-9c5c-0ef4f2953cba"
+    },
+    {
+      "start_time": 1297.675,
+      "end_time": 1327.475,
+      "annotation": [
+        {
+          "text": "Richard Brown:",
+          "bold": true
+        },
+        {
+          "text": " The \"hoq\" part or \"'oq\" part comes from Germanic, some Germanic language, and it is exactly an analog to the English word \"hook,\" which was \"hōc,\" as a matter of fact, in its Old English form. So here we have a little hook, although it wasn't little, and it would appear that we had a game using it long before Canada was ever dreamed about."
+        }
+      ],
+      "tags": [],
+      "uuid": "1805551a-de90-4e6b-9bed-da40bd3f1002"
+    },
+    {
+      "start_time": 1327.475,
+      "end_time": 1362.583,
+      "annotation": [
+        {
+          "text": "Richard Brown:",
+          "bold": true
+        },
+        {
+          "text": " Now, I long ago heard a story about the name \"Canada,\" and it was told to me by a colleague of mine, a man whose utterances are often full of delightful invention. And he told me that the word Canada means \"the huts\" or \"the shacks,\" being one of those odd things, you see, where the European settler takes the native translator or the native welcoming committee member aside and says, \"What do you call him place?\" or something like that."
+        }
+      ],
+      "tags": [],
+      "uuid": "53268d46-7fb7-4955-9afc-02825b44e3c4"
+    },
+    {
+      "start_time": 1362.583,
+      "end_time": 1378.755,
+      "annotation": [
+        {
+          "text": "Richard Brown:",
+          "bold": true
+        },
+        {
+          "text": " And the guy says, pointing of course over to a bunch of ratty cabins and so forth, you see, by the side of the river, and the guy says, \"Shacks.\" So they named the country after this editorial remark."
+        }
+      ],
+      "tags": [],
+      "uuid": "9cc4a173-d0f4-4d9a-b289-3e635567fa0a"
+    },
+    {
+      "start_time": 1378.755,
+      "end_time": 1396.243,
+      "annotation": [
+        {
+          "text": "Richard Brown:",
+          "bold": true
+        },
+        {
+          "text": " Unfortunately, unfortunately, no reputable dictionary seems willing to go along with such a story. Oxford stubbornly says origin unknown, and the rest say something similar. This is a disappointment perhaps."
+        }
+      ],
+      "tags": [],
+      "uuid": "cec3dd01-3e2a-41b6-a984-573d3249ea35"
+    },
+    {
+      "start_time": 1396.243,
+      "end_time": 1412.571,
+      "annotation": [
+        {
+          "text": "Richard Brown:",
+          "bold": true
+        },
+        {
+          "text": " And the \"maple,\" Old English \"mapul,\" wouldn't you just know, compared it to Old Norse \"mǫpurr,\" a Germanic word. And no, we can't say that this is from the New World at all in any sense."
+        }
+      ],
+      "tags": [],
+      "uuid": "b74990bd-bfeb-481b-b0bb-0d396210b4bb"
+    },
+    {
+      "start_time": 1412.571,
+      "end_time": 1444.915,
+      "annotation": [
+        {
+          "text": "Richard Brown:",
+          "bold": true
+        },
+        {
+          "text": " And \"beaver,\" my gosh, goes all the way back to Indo-European root for \"brown,\" and it's a reduplicated form of it. In other words, it was something like \"bʰébʰrus.\" And the second B-H becomes a V, you know, in some languages, so you have \"beaver.\" Latin \"fiber.\" And in fact \"bear\" comes from the... B-E-A-R comes from the unduplicated form of the same root, \"berô.\""
+        }
+      ],
+      "tags": [],
+      "uuid": "aec6ed01-e43f-4062-aadc-ef81fd67eb0a"
+    },
+    {
+      "start_time": 1444.915,
+      "end_time": 1461.875,
+      "annotation": [
+        {
+          "text": "Richard Brown:",
+          "bold": true
+        },
+        {
+          "text": " So what does this mean? It means that both animals were widely known in Europe in the most hoary antiquity. And they were both named merely after their colour."
+        }
+      ],
+      "tags": [],
+      "uuid": "ba78234b-b0c0-4ce4-b420-b54c995fd9d9"
+    },
+    {
+      "start_time": 1461.875,
+      "end_time": 1467,
+      "annotation": [
+        {
+          "text": "Anna Altman:",
+          "bold": true
+        },
+        {
+          "text": " Dr. Richard Brown is a professor of classics at the University of Alberta."
+        }
+      ],
+      "tags": [],
+      "uuid": "09bcdae0-5f39-4fdb-b716-df12d3594052"
+    },
+    {
+      "start_time": 1467,
+      "end_time": 1473.665,
+      "annotation": [
+        {
+          "text": "Music:",
+          "bold": true
+        },
+        {
+          "text": " [Electronic Music]"
+        }
+      ],
+      "tags": [],
+      "uuid": "01df7c20-b1c5-47fc-b35e-57f7341e483a"
+    },
+    {
+      "start_time": 1473.665,
+      "end_time": 1476.335,
+      "annotation": [
+        {
+          "text": "Male Voice:",
+          "bold": true
+        },
+        {
+          "text": " Words worth listening to."
+        }
+      ],
+      "tags": [],
+      "uuid": "4b61a456-9d8e-4254-a672-c9a97c3dc453"
+    },
+    {
+      "start_time": 1476.335,
+      "end_time": 1498.335,
+      "annotation": [
+        {
+          "text": "Anna Altman:",
+          "bold": true
+        },
+        {
+          "text": " Canadian humourist Stephen Leacock once observed that we use three different kinds of Englishes in Canada: Scots for sermons, English for literature, and American for conversation. The late Walter Avis of the University of Alberta, an authority on Canadian English, observed a similar phenomenon in his studies."
+        }
+      ],
+      "tags": [],
+      "uuid": "e5d161ab-47e8-455e-baa8-c0a1e7426662"
+    },
+    {
+      "start_time": 1498.335,
+      "end_time": 1522,
+      "annotation": [
+        {
+          "text": "Anna Altman:",
+          "bold": true
+        },
+        {
+          "text": " He discovered that people in the upper strata of Canadian society spoke a more formal English that was influenced by British norms, whereas the majority of the lower end of the social scale tended toward American usages. But there is yet a third dimension to the English spoken in Canada, as we learned in conversation with Dr. Grace Jolly of Glendon College in Toronto."
+        }
+      ],
+      "tags": [],
+      "uuid": "7386f267-4ff8-406b-8cff-c2f36ba0d264"
+    },
+    {
+      "start_time": 1522,
+      "end_time": 1530.745,
+      "annotation": [
+        {
+          "text": "Jars Balan:",
+          "bold": true
+        },
+        {
+          "text": " Can you give us an example of a regional dialect in Canadian literature? A character that speaks in a regional dialect?"
+        }
+      ],
+      "tags": [],
+      "uuid": "f268ffa9-89d0-4092-acee-f1bdaded8087"
+    },
+    {
+      "start_time": 1530.745,
+      "end_time": 1560.435,
+      "annotation": [
+        {
+          "text": "Grace Jolly:",
+          "bold": true
+        },
+        {
+          "text": " Well, of course, who comes to mind right away is W. O. Mitchell. Immediately one thinks of W. O. Mitchell and of the Ben and of Saint Sammy. And we think of how Mitchell presented those dialects on the page. He used some special kinds of spelling in order to present this kind of dialect."
+        }
+      ],
+      "tags": [],
+      "uuid": "ac6a30e2-e3ea-49c1-8abc-7ba2ec5a73e4"
+    },
+    {
+      "start_time": 1560.435,
+      "end_time": 1602,
+      "annotation": [
+        {
+          "text": "Grace Jolly:",
+          "bold": true
+        },
+        {
+          "text": " But we must remember that it's not merely a regional dialect, it's also a social dialect. The Ben is at the bottom, I'm sure, of the social heap in the little town that Mitchell is presenting. And Saint Sammy has been hailed out and hoppered out and blown out until he's quite mad. So we can't expect the speech of one character presented by the writer to reflect only the regional characteristics. It reflects a bundle of things, a whole complex of things, okay?"
+        }
+      ],
+      "tags": [],
+      "uuid": "5481251a-7d98-4dde-92a6-1a57a889b00c"
+    },
+    {
+      "start_time": 1602,
+      "end_time": 1611,
+      "annotation": [
+        {
+          "text": "Jars Balan:",
+          "bold": true
+        },
+        {
+          "text": " Could you read us a passage that perhaps would illustrate how Mitchell handles the regional dialect in his work?"
+        }
+      ],
+      "tags": [],
+      "uuid": "eec981d5-37f2-4e37-8f26-bbfb258ecf1e"
+    },
+    {
+      "start_time": 1611,
+      "end_time": 1642.225,
+      "annotation": [
+        {
+          "text": "Grace Jolly:",
+          "bold": true
+        },
+        {
+          "text": " Well, yes, I love Saint Sammy, of course, so I'd be happy to read something of his. Now, I think what we recognize as regional in his speech is not so much the sound which Mitchell has tried to reflect by some of his spelling conventions, but the lexis, the particular words that he's used."
+        }
+      ],
+      "tags": [],
+      "uuid": "2aeced43-4ad7-4009-bbb0-684b47d09001"
+    },
+    {
+      "start_time": 1642.225,
+      "end_time": 1667.243,
+      "annotation": [
+        {
+          "text": "Grace Jolly:",
+          "bold": true
+        },
+        {
+          "text": " Now, one of the things that Mitchell has done here is drop the Gs, of course, but that's always a marker of substandard dialect of the uneducated. He has taken \"of\" and instead of spelling it O-F, he has attached an A to the previous word. So \"voice of the Lord\" becomes \"voice-a the Lord\" with an A tacked onto the voice. And this is how he does it."
+        }
+      ],
+      "tags": [],
+      "uuid": "4238965c-18a2-4f96-a156-07f727b56d2d"
+    },
+    {
+      "start_time": 1667.243,
+      "end_time": 1690.115,
+      "annotation": [
+        {
+          "text": "Grace Jolly:",
+          "bold": true
+        },
+        {
+          "text": " Well, here's Saint Sammy then, and Brian watching him. The intense joy which he feels after the storm which he has predicted has come and Bent Candy's barn is smashed to smithereens. And he has this marvelous mix of biblical language and his own language."
+        }
+      ],
+      "tags": [],
+      "uuid": "7132b543-9364-428d-9473-7791fb719d4e"
+    },
+    {
+      "start_time": 1690.115,
+      "end_time": 1702.13518,
+      "annotation": [
+        {
+          "text": "Grace Jolly:",
+          "bold": true
+        },
+        {
+          "text": " And that of course too reflects something of the reality of the Bible Belt, remember. Remember, we're talking about that part of this country where--"
+        }
+      ],
+      "tags": [],
+      "uuid": "b547e4f7-e66a-4c15-b958-f71c1aa055e7"
+    },
+    {
+      "start_time": 1702.13518,
+      "end_time": 1706,
+      "annotation": [
+        {
+          "text": "Jars Balan:",
+          "bold": true
+        },
+        {
+          "text": " --fundamentalist religion is still strong even to this day."
+        }
+      ],
+      "tags": [],
+      "uuid": "ac5b0a7c-6630-4fb9-be68-74bc978de162"
+    },
+    {
+      "start_time": 1706,
+      "end_time": 1720,
+      "annotation": [
+        {
+          "text": "Grace Jolly:",
+          "bold": true
+        },
+        {
+          "text": " That's right, till this day. And where people spout and quote verse and chapter, chapter and verse of the Scriptures at the smallest provocation. So this is what Saint Sammy is doing."
+        }
+      ],
+      "tags": [],
+      "uuid": "b5751ba7-f9ff-44e0-960a-d470d884fa63"
+    },
+    {
+      "start_time": 1720,
+      "end_time": 1767.571,
+      "annotation": [
+        {
+          "text": "Grace Jolly:",
+          "bold": true
+        },
+        {
+          "text": " \"I looked and I beheld the heavens was opened up and there was a whirlwind comin' outta the east, liftin' like a trumpet a-spinnin' on her end and there was fire inside-a her and light like a sunset was all around about her. Plumb outta of the midst-a her come the voice-a the Lord sayin', Sammy, Sammy, get up from off-a thy knees, for I am gonna to speak onta you. The prairie shall be glad, and she shall blossom like the rose, yea, she shall blossom abundantly. The eyes-a the blind shall see, and the ears-a the deef shall hear. The lame is gonna leap like a jackrabbit, and the water shall spout onta the prairie and the slough shall be full, plumb full.\" Saint Sammy's arms came down. \"Amen,\" said Mr. Candy."
+        }
+      ],
+      "tags": [],
+      "uuid": "68273742-4830-4a0a-a1c2-7f86cefeb0f3"
+    },
+    {
+      "start_time": 1767.571,
+      "end_time": 1772,
+      "annotation": [
+        {
+          "text": "Anna Altman:",
+          "bold": true
+        },
+        {
+          "text": " Dr. Grace Jolly is a professor of English at York University."
+        }
+      ],
+      "tags": [],
+      "uuid": "4578a246-7097-4b8d-9be7-3f591850b626"
+    },
+    {
+      "start_time": 1772,
+      "end_time": 1774,
+      "annotation": [
+        {
+          "text": "Music:",
+          "bold": true
+        },
+        {
+          "text": " [Electronic Music]"
+        }
+      ],
+      "tags": [],
+      "uuid": "4705ed58-96ff-4460-907c-5fc4fef7a76d"
+    },
+    {
+      "start_time": 1774,
+      "end_time": 1776.3302,
+      "annotation": [
+        {
+          "text": "Male Voice:",
+          "bold": true
+        },
+        {
+          "text": " Apostrophe."
+        }
+      ],
+      "tags": [],
+      "uuid": "79381735-5265-4f89-9d31-b640f9e73133"
+    },
+    {
+      "start_time": 1776.3302,
+      "end_time": 1808,
+      "annotation": [
+        {
+          "text": "Jars Balan:",
+          "bold": true
+        },
+        {
+          "text": " One aspect of Canadian speech that has not yet been studied is the influence that non-English speaking immigrants have had on the linguistic habits of their fellow Canadians. Research into this area could potentially yield very interesting results, as in some parts of the country, in Saskatchewan, for example, Anglophone settlers were in a distinct minority. However, considering that very little work has been done on Canadian English in general, this academic oversight is hardly surprising."
+        }
+      ],
+      "tags": [],
+      "uuid": "42d54ba9-9fb2-4801-853e-c8e701d351ff"
+    },
+    {
+      "start_time": 1808,
+      "end_time": 1813.155,
+      "annotation": [
+        {
+          "text": "Music:",
+          "bold": true
+        },
+        {
+          "text": " [Electronic Music]"
+        }
+      ],
+      "tags": [],
+      "uuid": "e213cbdc-3368-4828-83d2-2951ba682461"
+    },
+    {
+      "start_time": 1813.155,
+      "end_time": 1814,
+      "annotation": [
+        {
+          "text": "Male Voice:",
+          "bold": true
+        },
+        {
+          "text": " Footnote."
+        }
+      ],
+      "tags": [],
+      "uuid": "181202aa-a7be-42db-ae79-279d95ce4439"
+    },
+    {
+      "start_time": 1814,
+      "end_time": 1839.665,
+      "annotation": [
+        {
+          "text": "Terry Winnick:",
+          "bold": true
+        },
+        {
+          "text": " Unfortunately, there is not very much reading material available on Canadian English, as it has not been studied extensively or in any great depth. However, one recently published book that listeners are sure to find both interesting and easy to read is Ruth E. McConnell's comprehensive survey for the Gage Publishing Company called "
+        },
+        {
+          "text": "Our Own Voice: Canadian English and How It Is Studied",
+          "italic": true
+        },
+        {
+          "text": "."
+        }
+      ],
+      "tags": [],
+      "uuid": "9d710378-eeb8-4c1d-bbd2-9f971ce10a11"
+    },
+    {
+      "start_time": 1839.665,
+      "end_time": 1862.137,
+      "annotation": [
+        {
+          "text": "Terry Winnick:",
+          "bold": true
+        },
+        {
+          "text": " Issued in 1979, the book is designed as a text for high school students and contains numerous examples from Canadian literature to illustrate the distinct features of Canadian speech. A more technical work for people with a background in linguistics is "
+        },
+        {
+          "text": "Canadian English: Origins and Structures",
+          "italic": true
+        },
+        {
+          "text": ", a collection of essays edited by Dr. Jack Chambers."
+        }
+      ],
+      "tags": [],
+      "uuid": "41818a12-177f-4623-8a4c-642f59f031a7"
+    },
+    {
+      "start_time": 1862.137,
+      "end_time": 1885,
+      "annotation": [
+        {
+          "text": "Terry Winnick:",
+          "bold": true
+        },
+        {
+          "text": " It was published in 1975 by Methuen of Canada and is most useful in that it provides reprints of articles that were originally published in a variety of journals. It is to be hoped that more research will be done on Canadian English in the near future so that we can increase our limited knowledge of our speech and writing habits and thereby become more aware of what makes us uniquely Canadian."
+        }
+      ],
+      "tags": [],
+      "uuid": "010ce6cb-7f6e-458f-811c-80fada5c3887"
+    },
+    {
+      "start_time": 1885,
+      "end_time": 1898.575,
+      "annotation": [
+        {
+          "text": "Music:",
+          "bold": true
+        },
+        {
+          "text": " [Soft Country Music]"
+        }
+      ],
+      "tags": [],
+      "uuid": "958dcd42-02e4-457d-85f2-d4f61f8cb628"
+    },
+    {
+      "start_time": 1898.575,
+      "end_time": 1912,
+      "annotation": [
+        {
+          "text": "Jars Balan:",
+          "bold": true
+        },
+        {
+          "text": " Have you ever wanted to know what it was really like to be a writer in the CanLit heyday of the 1960s? Stay tuned for part two of VoicePrint and Margaret Atwood's personal account, on Literary Supplement."
+        }
+      ],
+      "tags": [],
+      "uuid": "9c042039-dd0a-4189-9ce6-91c89c085cca"
+    },
+    {
+      "start_time": 1912,
+      "end_time": 1924.525,
+      "annotation": [
+        {
+          "text": "Music:",
+          "bold": true
+        },
+        {
+          "text": " [Soft Country Music Continues]"
+        }
+      ],
+      "tags": [],
+      "uuid": "6202c4c8-e75d-437f-b3d5-657be11c94dd"
+    },
+    {
+      "start_time": 1924.525,
+      "end_time": 1936,
+      "annotation": [
+        {
+          "text": "Female Voice:",
+          "bold": true
+        },
+        {
+          "text": " You are listening to Access Radio CKUA, broadcasting in Edmonton, Calgary, Peace River, Medicine Hat, Lethbridge, Grand Prairie, and Red Deer."
+        }
+      ],
+      "tags": [],
+      "uuid": "f405224f-d75a-4796-8b94-d111ccdc3cc6"
+    },
+    {
+      "start_time": 1936,
+      "end_time": 1953.135,
+      "annotation": [
+        {
+          "text": "Music:",
+          "bold": true
+        },
+        {
+          "text": " [Soft Country Music Continues]"
+        }
+      ],
+      "tags": [],
+      "uuid": "156e4d42-df6a-4846-b197-700dcb5ca04d"
+    },
+    {
+      "start_time": 1953.135,
+      "end_time": 1956.295,
+      "annotation": [
+        {
+          "text": "Male Voice:",
+          "bold": true
+        },
+        {
+          "text": " Literary Supplement."
+        }
+      ],
+      "tags": [],
+      "uuid": "2870e9ce-76d1-4523-b2df-e049baa63bcb"
+    },
+    {
+      "start_time": 1956.295,
+      "end_time": 1959,
+      "annotation": [
+        {
+          "text": "Roman Onufrijchuk:",
+          "bold": true
+        },
+        {
+          "text": " Laurentian Shield."
+        }
+      ],
+      "tags": [],
+      "uuid": "7cc2491f-ad8d-48dc-89b9-b8cc2af724a9"
+    },
+    {
+      "start_time": 1959,
+      "end_time": 1984.335,
+      "annotation": [
+        {
+          "text": "Roman Onufrijchuk:",
+          "bold": true
+        },
+        {
+          "text": " Hidden in wonder and snow, or sudden with summer, this land stares at the sun in a huge silence, endlessly repeating something we cannot hear. Inarticulate, arctic, not written on by history, empty as paper, it leans away from the world with songs in its lakes, older than love, and lost in miles."
+        }
+      ],
+      "tags": [],
+      "uuid": "c89e813a-1e15-45cb-84b3-8159772d64d3"
+    },
+    {
+      "start_time": 1984.335,
+      "end_time": 1994,
+      "annotation": [
+        {
+          "text": "Roman Onufrijchuk:",
+          "bold": true
+        },
+        {
+          "text": " This waiting is wanting. It will choose its language, when it has chosen its technic, a tongue to shape the vowels of its productivity."
+        }
+      ],
+      "tags": [],
+      "uuid": "e4edde61-c31d-4838-a751-7714c547afda"
+    },
+    {
+      "start_time": 1994,
+      "end_time": 1998,
+      "annotation": [
+        {
+          "text": "Roman Onufrijchuk:",
+          "bold": true
+        },
+        {
+          "text": " A language of flesh and roses."
+        }
+      ],
+      "tags": [],
+      "uuid": "88c4a481-8bc3-4d3b-9e91-a25b1041215d"
+    },
+    {
+      "start_time": 1998,
+      "end_time": 2008.465,
+      "annotation": [
+        {
+          "text": "Roman Onufrijchuk:",
+          "bold": true
+        },
+        {
+          "text": " Now there are pre-words, cabin syllables, nouns of settlement, slowly forming, with steel syntax, the long sentence of its exploitation."
+        }
+      ],
+      "tags": [],
+      "uuid": "f90609f9-4d98-42a4-b640-0f86a501020a"
+    },
+    {
+      "start_time": 2008.465,
+      "end_time": 2033.215,
+      "annotation": [
+        {
+          "text": "Roman Onufrijchuk:",
+          "bold": true
+        },
+        {
+          "text": " The first cry was the hunter, hungry for fur, and the digger for gold, nomad, no-man, a particle; then the bold commands of monopoly, big with machines, carving its kingdoms out of the public wealth; and now the drone of the plane, scouting the ice, fills all the emptiness with neighborhood, and links our future over the vanished pole."
+        }
+      ],
+      "tags": [],
+      "uuid": "8a1f0284-af72-4ec1-ba5d-ebb260c7f56e"
+    },
+    {
+      "start_time": 2033.215,
+      "end_time": 2056.305,
+      "annotation": [
+        {
+          "text": "Roman Onufrijchuk:",
+          "bold": true
+        },
+        {
+          "text": " But a deeper note is sounding, heard in the mines, the scattered camps and the mills, a language of life, and what will be written in the full culture of occupation will come, presently, tomorrow, from millions whose hands can turn this rock into children."
+        }
+      ],
+      "tags": [],
+      "uuid": "441641b6-cd79-41d7-b6b3-4495192c2314"
+    },
+    {
+      "start_time": 2056.305,
+      "end_time": 2060,
+      "annotation": [
+        {
+          "text": "Roman Onufrijchuk:",
+          "bold": true
+        },
+        {
+          "text": " The Call of the Wild."
+        }
+      ],
+      "tags": [],
+      "uuid": "9aeca90f-2202-4ff2-a7a3-931e9e326ccc"
+    },
+    {
+      "start_time": 2060,
+      "end_time": 2070.745,
+      "annotation": [
+        {
+          "text": "Roman Onufrijchuk:",
+          "bold": true
+        },
+        {
+          "text": " Make me over, Mother Nature, take the knowledge from my eyes, put me back among the pine trees where the simple are the wise."
+        }
+      ],
+      "tags": [],
+      "uuid": "a46bc95e-f1f8-4fda-8d3d-af8d01aa7b09"
+    },
+    {
+      "start_time": 2070.745,
+      "end_time": 2094,
+      "annotation": [
+        {
+          "text": "Roman Onufrijchuk:",
+          "bold": true
+        },
+        {
+          "text": " Clear away all evil influence that can hurt me from the States, keep me pure among the beaver with un-Freudian loves and hates, where my Conrads are not Aiken, where John Bishop's Peales don't sound, where the Ransoms are not Crowing and the Ezras do not Pound."
+        }
+      ],
+      "tags": [],
+      "uuid": "00a57a57-0415-483e-b894-f4a22db04e7c"
+    },
+    {
+      "start_time": 2094,
+      "end_time": 2099,
+      "annotation": [
+        {
+          "text": "Roman Onufrijchuk:",
+          "bold": true
+        },
+        {
+          "text": " National Identity."
+        }
+      ],
+      "tags": [],
+      "uuid": "f78e0f97-b3bf-4e51-a51f-b1934dcd82f5"
+    },
+    {
+      "start_time": 2099,
+      "end_time": 2115.931,
+      "annotation": [
+        {
+          "text": "Roman Onufrijchuk:",
+          "bold": true
+        },
+        {
+          "text": " The Canadian Centenary Council meeting in La Reine Elizabeth to seek those symbols which will explain ourselves to ourselves, evoke unlimited responses, and prove that something called Canada really exists in the heart of all."
+        }
+      ],
+      "tags": [],
+      "uuid": "21e3448c-c829-4395-abb0-a1281b145670"
+    },
+    {
+      "start_time": 2115.931,
+      "end_time": 2139.905,
+      "annotation": [
+        {
+          "text": "Roman Onufrijchuk:",
+          "bold": true
+        },
+        {
+          "text": " Handed out to every delegate at the start of proceedings, a portfolio of documents, on the cover of which appeared in gold letters, not A Mari Usque Ad Mare, not Dieu Et Mon Droit, not Je Me Souviens, not E Pluribus Unum, but Courtesy of Coca Cola Limited."
+        }
+      ],
+      "tags": [],
+      "uuid": "e508ddc8-3d75-4fce-928a-57bc6b2da8b9"
+    },
+    {
+      "start_time": 2139.905,
+      "end_time": 2144,
+      "annotation": [
+        {
+          "text": "Roman Onufrijchuk:",
+          "bold": true
+        },
+        {
+          "text": " The Canadian Authors Meet."
+        }
+      ],
+      "tags": [],
+      "uuid": "83b296ea-de73-4108-9ebc-f55a8f57a948"
+    },
+    {
+      "start_time": 2144,
+      "end_time": 2171.325,
+      "annotation": [
+        {
+          "text": "Roman Onufrijchuk:",
+          "bold": true
+        },
+        {
+          "text": " Expansive puppets percolate self-unction beneath a portrait of the Prince of Wales. Miss Crotchet's muse has somehow failed to function, yet she's a poetess. Beaming, she sails from group to chattering group, with such a dear Victorian saintliness, as is her fashion, greeting the other unknowns with a cheer. Virgins of 60 who still write of passion."
+        }
+      ],
+      "tags": [],
+      "uuid": "8a5480a3-4a32-4acc-98f6-924675448d87"
+    },
+    {
+      "start_time": 2171.325,
+      "end_time": 2186.47746,
+      "annotation": [
+        {
+          "text": "Roman Onufrijchuk:",
+          "bold": true
+        },
+        {
+          "text": " The air is heavy with Canadian topics, and Carman, Lampman, Roberts, Campbell, Scott, are measured for their faith and philanthropics, their zeal for God and King, their earnest thought."
+        }
+      ],
+      "tags": [],
+      "uuid": "5587e01e-78b3-48f5-9f2d-5a6189794474"
+    },
+    {
+      "start_time": 2186.47746,
+      "end_time": 2202.135,
+      "annotation": [
+        {
+          "text": "Roman Onufrijchuk:",
+          "bold": true
+        },
+        {
+          "text": " The cakes are sweet, but sweeter is the feeling that one is mixing with the literati; it warms the old, it melts the most congealing. Really, it is a most delightful party."
+        }
+      ],
+      "tags": [],
+      "uuid": "69ffde68-eba6-494f-9665-00ffdee551cc"
+    },
+    {
+      "start_time": 2202.135,
+      "end_time": 2213,
+      "annotation": [
+        {
+          "text": "Roman Onufrijchuk:",
+          "bold": true
+        },
+        {
+          "text": " Shall we go round the mulberry bush, or shall we gather at the river, or shall we appoint a Poet Laureate this fall, or shall we have another cup of tea?"
+        }
+      ],
+      "tags": [],
+      "uuid": "29ec6a22-6744-4b75-af7a-51a134bd9bd5"
+    },
+    {
+      "start_time": 2213,
+      "end_time": 2226,
+      "annotation": [
+        {
+          "text": "Roman Onufrijchuk:",
+          "bold": true
+        },
+        {
+          "text": " O Canada, O Canada, O can a day go by without new authors springing to paint the native maple, and to plan more ways to set the self same welkin ringing?"
+        }
+      ],
+      "tags": [],
+      "uuid": "98ad3ec7-387d-4805-9642-5c9db93019e3"
+    },
+    {
+      "start_time": 2226,
+      "end_time": 2241,
+      "annotation": [
+        {
+          "text": "Music:",
+          "bold": true
+        },
+        {
+          "text": " [Soft Country Music]"
+        }
+      ],
+      "tags": [],
+      "uuid": "1912dc2e-c837-4f14-9184-99b8e58106aa"
+    },
+    {
+      "start_time": 2241,
+      "end_time": 2244.575,
+      "annotation": [
+        {
+          "text": "Male Voice:",
+          "bold": true
+        },
+        {
+          "text": " Symposium."
+        }
+      ],
+      "tags": [],
+      "uuid": "7279c942-67be-4e00-9acf-68a821f4b40a"
+    },
+    {
+      "start_time": 2244.575,
+      "end_time": 2261.635,
+      "annotation": [
+        {
+          "text": "Jars Balan:",
+          "bold": true
+        },
+        {
+          "text": " The poems you just heard were by F.R. Scott, one of the elder statesmen of Canadian poetry. He, along with several other prominent writers of his generation, laid the groundwork of modern Canadian poetry and did much to develop a distinctive poetic voice."
+        }
+      ],
+      "tags": [],
+      "uuid": "cb03b0a4-4a75-433d-b732-0b7d6290514b"
+    },
+    {
+      "start_time": 2261.635,
+      "end_time": 2282.675,
+      "annotation": [
+        {
+          "text": "Jars Balan:",
+          "bold": true
+        },
+        {
+          "text": " Another, more contemporary writer who has also made an important contribution to Canadian letters is the well known poet and novelist Margaret Atwood. She came to national prominence in the 1960s when her name almost became synonymous with Canadian literature, so closely was it identified with the cultural flowering of that period."
+        }
+      ],
+      "tags": [],
+      "uuid": "88877f72-7def-448d-9c02-d9bb23c4b994"
+    },
+    {
+      "start_time": 2282.675,
+      "end_time": 2297,
+      "annotation": [
+        {
+          "text": "Jars Balan:",
+          "bold": true
+        },
+        {
+          "text": " I asked her to reflect on her literary beginnings and to comment on some of the victories and defeats of those years. I talked with her in her studio one hectic morning in the heart of Toronto."
+        }
+      ],
+      "tags": [],
+      "uuid": "a704df89-dfe9-4d89-ba74-be62831112aa"
+    },
+    {
+      "start_time": 2297,
+      "end_time": 2305.075,
+      "annotation": [
+        {
+          "text": "Jars Balan:",
+          "bold": true
+        },
+        {
+          "text": " Was there a feeling of community among you, a feeling that \"we're all in this together, we're trying to create a Canadian literature?\""
+        }
+      ],
+      "tags": [],
+      "uuid": "cf8f0fba-5054-413e-851d-d4444b6c5965"
+    },
+    {
+      "start_time": 2305.075,
+      "end_time": 2341,
+      "annotation": [
+        {
+          "text": "Margaret Atwood:",
+          "bold": true
+        },
+        {
+          "text": " Well, it's very, very, very hard to go back in time, to someone who... And talk to somebody who wasn't there about how extremely small and puddle-like, if you like, all of this activity was. In 1960 I was in third year university and that's when I really started reading Canadian literature, although I had sort of poked around before and I think if you go back, you'll probably find that my first poem was published in the Canadian forum in 1959. That's why I say the '50s. [laughs]"
+        }
+      ],
+      "tags": [],
+      "uuid": "2f9cba49-edf7-46cf-9a3d-123d10e64c3d"
+    },
+    {
+      "start_time": 2341,
+      "end_time": 2368.44317,
+      "annotation": [
+        {
+          "text": "Margaret Atwood:",
+          "bold": true
+        },
+        {
+          "text": " I started writing in '56, but that was in high school and believe me, there was no Canadian literature on the horizon at all. I kind of knew about E. J. Pratt because we took a poem of his in grade 13. And apart from that, I knew about Archibald Lampman, and there was a poet around in those days called Wilson MacDonald. He used to go around, give readings in high schools. \"God planted a scarlet maple tree,\" etc. And that was it, you know."
+        }
+      ],
+      "tags": [],
+      "uuid": "0ab8f1fe-8fb1-4a8f-9894-2476ab378a42"
+    },
+    {
+      "start_time": 2368.44317,
+      "end_time": 2403.795,
+      "annotation": [
+        {
+          "text": "Margaret Atwood:",
+          "bold": true
+        },
+        {
+          "text": " Except for Anne of Green Gables, but we didn't consider that literature, I mean, that was just books you read as a kid, same as Ernest Thompson Seton and Charles G. D. Roberts. You didn't think of them as Canadian writers, you thought of them as kids books. And so the people of my age who wanted to write, we didn't think of Canada as our context initially. We were those people who almost did what Mordecai Richler did. I mean, a couple of years earlier, and we would all have gone to England. As it was, a number of us did anyway."
+        }
+      ],
+      "tags": [],
+      "uuid": "69beafaa-b693-4eee-b081-f854a0a653f6"
+    },
+    {
+      "start_time": 2403.795,
+      "end_time": 2437.575,
+      "annotation": [
+        {
+          "text": "Margaret Atwood:",
+          "bold": true
+        },
+        {
+          "text": " Some of us spent some time in Europe. But people of my generation, the idea was that you couldn't be a serious writer and be a Canadian writer at the same time. The two terms are mutually exclusive. And we got over that a long time ago, but some of the reading public still cherish this [laughs] this concept. There were very, very few. Really very, very few. And because there were so few, you could get to know poets of considerable stature."
+        }
+      ],
+      "tags": [],
+      "uuid": "7ef90598-d210-42c6-9b48-20966f3a0e11"
+    },
+    {
+      "start_time": 2437.575,
+      "end_time": 2459.815,
+      "annotation": [
+        {
+          "text": "Margaret Atwood:",
+          "bold": true
+        },
+        {
+          "text": " As a young poet with virtually no credentials, you could get to know people like Earl Birney and Frank Scott and so on, in a way that you would not have been able to if you had been a similar young English writer or a similar young American writer. Those people would have been out of your reach. Louis Dudek was running a little magazine in Montreal."
+        }
+      ],
+      "tags": [],
+      "uuid": "81783e51-f037-43cf-8903-44870e9f976c"
+    },
+    {
+      "start_time": 2459.815,
+      "end_time": 2488,
+      "annotation": [
+        {
+          "text": "Margaret Atwood:",
+          "bold": true
+        },
+        {
+          "text": " Tamarack Review had just started in Toronto, and Fred Cogswell was running Fiddlehead out in the Maritimes. And I think things like Prism started shortly after that, around that time. But there were so few outlets and so few writers that you could very quickly learn who was writing, and you could probably meet them if you were so inclined."
+        }
+      ],
+      "tags": [],
+      "uuid": "8f6185f5-1af0-4b3d-9830-ba9473ae6836"
+    },
+    {
+      "start_time": 2488,
+      "end_time": 2491,
+      "annotation": [
+        {
+          "text": "Jars Balan:",
+          "bold": true
+        },
+        {
+          "text": " What were the issues, what were the concerns of writers?"
+        }
+      ],
+      "tags": [],
+      "uuid": "c165dc8d-91a5-4769-b357-9c945adf85e1"
+    },
+    {
+      "start_time": 2491,
+      "end_time": 2520.919,
+      "annotation": [
+        {
+          "text": "Margaret Atwood:",
+          "bold": true
+        },
+        {
+          "text": " Yeah, well, issues is a kind of political term, but let's think in terms of subject matter. For somebody coming through that period, you had the feeling, to begin with, that Canadian locales, Canadian material, Canadian place names and things like that were almost verboten. I mean, almost you couldn't use them because you felt that your readers wouldn't understand what they meant."
+        }
+      ],
+      "tags": [],
+      "uuid": "033a306d-ab18-4591-b10f-57ed9b0a79ec"
+    },
+    {
+      "start_time": 2520.919,
+      "end_time": 2546.47453,
+      "annotation": [
+        {
+          "text": "Margaret Atwood:",
+          "bold": true
+        },
+        {
+          "text": " And also, it's sort of like setting a detective novel in Regina, I mean, or an international spy novel in Moose Jaw. There seemed to be a discrepancy between serious literature and Canada. Do you know what I mean? If you go back and look at "
+        },
+        {
+          "text": "The Edible Woman",
+          "italic": true
+        },
+        {
+          "text": ", which was written in '64-5, none of the streets are named. There aren't any names on any of the streets."
+        }
+      ],
+      "tags": [],
+      "uuid": "2f54ad93-a0c0-4eaa-a1c8-9cd58d893b4f"
+    },
+    {
+      "start_time": 2546.47453,
+      "end_time": 2576.849,
+      "annotation": [
+        {
+          "text": "Margaret Atwood:",
+          "bold": true
+        },
+        {
+          "text": " Now, I know where those streets are, but there was something about actually naming the streets, it just didn't seem possible. And I think one of the things that that whole period of writing opened up was that, yes, you can write about things that are yours. I'm thinking right now of Al Purdy, who has a lot of what I think of as almost geological poetry. Geographical, geological poetry dealing with locales, places."
+        }
+      ],
+      "tags": [],
+      "uuid": "08d023f8-2b38-46b1-8721-e642e4c2877a"
+    },
+    {
+      "start_time": 2576.849,
+      "end_time": 2593,
+      "annotation": [
+        {
+          "text": "Margaret Atwood:",
+          "bold": true
+        },
+        {
+          "text": " John Newlove, the same thing. Yes, you can put Saskatchewan in a poem. [laughs] And this seems silly to talk about now because it's been done so much, but it was really, it really seemed quite daring then [laughs]--"
+        }
+      ],
+      "tags": [],
+      "uuid": "d1949f34-7a38-4433-9bc6-29bb6708a593"
+    },
+    {
+      "start_time": 2593,
+      "end_time": 2595,
+      "annotation": [
+        {
+          "text": "Jars Balan:",
+          "bold": true
+        },
+        {
+          "text": " --to identify something--"
+        }
+      ],
+      "tags": [],
+      "uuid": "73369cfb-da1e-473b-a614-f994e06b5e9a"
+    },
+    {
+      "start_time": 2595,
+      "end_time": 2596.23377,
+      "annotation": [
+        {
+          "text": "Margaret Atwood:",
+          "bold": true
+        },
+        {
+          "text": " Well, you just felt, yeah--"
+        }
+      ],
+      "tags": [],
+      "uuid": "aa19f497-17d1-407e-a71b-61e7a75666b5"
+    },
+    {
+      "start_time": 2596.23377,
+      "end_time": 2597.37941,
+      "annotation": [
+        {
+          "text": "Jars Balan:",
+          "bold": true
+        },
+        {
+          "text": " [Overlapping] --or to identify yourself that way--"
+        }
+      ],
+      "tags": [],
+      "uuid": "dbe340ba-8b54-4823-9675-c5f6c26a6032"
+    },
+    {
+      "start_time": 2597.37941,
+      "end_time": 2615,
+      "annotation": [
+        {
+          "text": "Margaret Atwood:",
+          "bold": true
+        },
+        {
+          "text": " [Overlapping] --to identify yourself as a serious writer and a Canadian, to put those two things together and to say, yes, I'm going to write out of my own experience. I'm not going to pretend I'm from New York. You know, this seemed like quite a daring thing to do. You weren't at all sure that people would really accept that, even Canadians."
+        }
+      ],
+      "tags": [],
+      "uuid": "ac29523c-6166-43e8-ae8d-a29721a6ddf3"
+    },
+    {
+      "start_time": 2615,
+      "end_time": 2622,
+      "annotation": [
+        {
+          "text": "Jars Balan:",
+          "bold": true
+        },
+        {
+          "text": " Did the writers in the '60s feel a sense of mission, did they feel that they were up against something big, and did they see what they were doing--?"
+        }
+      ],
+      "tags": [],
+      "uuid": "bf43afdc-936b-44aa-8509-5c1093026945"
+    },
+    {
+      "start_time": 2622,
+      "end_time": 2644.375,
+      "annotation": [
+        {
+          "text": "Margaret Atwood:",
+          "bold": true
+        },
+        {
+          "text": " [Overlapping] It didn't start like that, it started just with the situation of any writer, any writer on the face of the earth. I mean, you feel that you wish to write. You then find that there's a relationship between you and the audience, and the frustration comes when you find that that relationship is being blocked."
+        }
+      ],
+      "tags": [],
+      "uuid": "fad39c4d-8355-4fa9-9378-d0aa2d05a02c"
+    },
+    {
+      "start_time": 2644.375,
+      "end_time": 2677.007,
+      "annotation": [
+        {
+          "text": "Margaret Atwood:",
+          "bold": true
+        },
+        {
+          "text": " So none of the people I know who later became politicized started out that way at all. They didn't give a hoot. They weren't politically minded, they weren't nationalists to begin with. That process came when they attempted to just be what they were, which is writers functioning in a community. And they found all these artificial impediments placed in their way, that citizens of an imperial culture do not have to deal with, in the same way. So that's where it came from."
+        }
+      ],
+      "tags": [],
+      "uuid": "bc68eb16-f4bf-45ea-a272-a4ff4e338658"
+    },
+    {
+      "start_time": 2677.007,
+      "end_time": 2692,
+      "annotation": [
+        {
+          "text": "Margaret Atwood:",
+          "bold": true
+        },
+        {
+          "text": " It came from just trying to be writers and finding for this reason and for that reason and for another reason, people were trying to stop you from doing that. Maybe not consciously, but that was the result."
+        }
+      ],
+      "tags": [],
+      "uuid": "7d887a24-e82a-4442-ad6e-1d74bf3c8a86"
+    },
+    {
+      "start_time": 2692,
+      "end_time": 2699,
+      "annotation": [
+        {
+          "text": "Jars Balan:",
+          "bold": true
+        },
+        {
+          "text": " What about the attitude of the university? The people at the university, the English department, did they regard--"
+        }
+      ],
+      "tags": [],
+      "uuid": "2384c921-db98-4eb5-ba3b-4e5cc3c11fdc"
+    },
+    {
+      "start_time": 2699,
+      "end_time": 2700,
+      "annotation": [
+        {
+          "text": "Margaret Atwood:",
+          "bold": true
+        },
+        {
+          "text": " Oh, you mean when I was going to school?"
+        }
+      ],
+      "tags": [],
+      "uuid": "9b8a5d5f-7716-4587-ad46-a61f57ac8b23"
+    },
+    {
+      "start_time": 2700,
+      "end_time": 2701.945,
+      "annotation": [
+        {
+          "text": "Jars Balan:",
+          "bold": true
+        },
+        {
+          "text": " Yeah."
+        }
+      ],
+      "tags": [],
+      "uuid": "fd22b86d-fdd5-49b8-ae3d-852e354c97fc"
+    },
+    {
+      "start_time": 2701.945,
+      "end_time": 2728.665,
+      "annotation": [
+        {
+          "text": "Margaret Atwood:",
+          "bold": true
+        },
+        {
+          "text": " They were not intolerant. In fact, I think they thought it was kind of cute, although they would never have used that word. In fact, they were quite encouraging, but there was no formalization of this process. We had a literary magazine, there again a handful of people were interested and practically ran the whole thing. And there were other literary magazines at the other colleges."
+        }
+      ],
+      "tags": [],
+      "uuid": "a7ff1d66-e5e9-4308-b4a0-91b8508b6979"
+    },
+    {
+      "start_time": 2728.665,
+      "end_time": 2765.025,
+      "annotation": [
+        {
+          "text": "Margaret Atwood:",
+          "bold": true
+        },
+        {
+          "text": " And I think probably the thing that I... that was helpful to me at university was not any specific thing that I learned, but the fact that some very bright and respectable people were taking the whole process seriously, that literature mattered. [laughs] So that even to the small extent that one was involved in it at that time, it was like being part of a larger, important endeavor. But there were no creative writing classes. You didn't get marks for it."
+        }
+      ],
+      "tags": [],
+      "uuid": "74e2bf16-4391-4c71-b148-ac986627c93a"
+    },
+    {
+      "start_time": 2765.025,
+      "end_time": 2795.325,
+      "annotation": [
+        {
+          "text": "Margaret Atwood:",
+          "bold": true
+        },
+        {
+          "text": " A lot of that kind of thing went on in the local beer parlor. People taking their poetry and reading it to each other and usually trouncing it [laughs] quite thoroughly. But it was such a small group of people that it's hard even to imagine it by today's standards. Most of the people of that time were more interested in fraternities and football and activities like that."
+        }
+      ],
+      "tags": [],
+      "uuid": "97704db3-06fa-45cb-9bb9-d4e3bcb97446"
+    },
+    {
+      "start_time": 2795.325,
+      "end_time": 2808.685,
+      "annotation": [
+        {
+          "text": "Jars Balan:",
+          "bold": true
+        },
+        {
+          "text": " What then was achieved in the struggles of the 60s, and what problems remain unresolved? I asked Margaret Atwood to assess the losses and gains from the perspective of the 80s."
+        }
+      ],
+      "tags": [],
+      "uuid": "1290d18e-cb0a-4885-af33-e9f0832d6fee"
+    },
+    {
+      "start_time": 2808.685,
+      "end_time": 2828.735,
+      "annotation": [
+        {
+          "text": "Margaret Atwood:",
+          "bold": true
+        },
+        {
+          "text": " Well, as I say, in Canada you have to keep doing things over and over again. I think that there's now a foot in the door, shall we say. I think there was a kind of peak of nationalist activity, nationalist interest, maybe around 1972."
+        }
+      ],
+      "tags": [],
+      "uuid": "20b55e33-7f48-465c-9fdf-60281567994a"
+    },
+    {
+      "start_time": 2828.735,
+      "end_time": 2856.865,
+      "annotation": [
+        {
+          "text": "Margaret Atwood:",
+          "bold": true
+        },
+        {
+          "text": " And then I think there was a reaction that set in against that, you know, let's not praise something just 'cause it's Canadian, etc, etc, etc. And you heard a certain amount of vocalization along the lines of, \"Well, the only reason so and so is getting attention is that they're Canadian. And don't you think that's unfair to all the people who aren't Canadian?\" [laughs] Canadians have a great sense of fairness to everybody else, [laughs] usually not to themselves."
+        }
+      ],
+      "tags": [],
+      "uuid": "586da737-6424-4a61-9565-2ee9b7f48208"
+    },
+    {
+      "start_time": 2856.865,
+      "end_time": 2870.725,
+      "annotation": [
+        {
+          "text": "Margaret Atwood:",
+          "bold": true
+        },
+        {
+          "text": " And anytime you say anything nationalist, you'll get about five letters to the editor saying, \"Oh, you're being mean to the poor Americans,\" or things like that. Which doesn't really impress me a lot. [laughs]"
+        }
+      ],
+      "tags": [],
+      "uuid": "fb811829-2fd9-49e7-a384-59ecb4f9969a"
+    },
+    {
+      "start_time": 2870.725,
+      "end_time": 2874.925,
+      "annotation": [
+        {
+          "text": "Jars Balan:",
+          "bold": true
+        },
+        {
+          "text": " So there's a tendency to, I guess, overcompensate."
+        }
+      ],
+      "tags": [],
+      "uuid": "ed8f0fd4-3ef4-4995-a1b1-607202615e41"
+    },
+    {
+      "start_time": 2874.925,
+      "end_time": 2900,
+      "annotation": [
+        {
+          "text": "Margaret Atwood:",
+          "bold": true
+        },
+        {
+          "text": " I think there was quite a, there was a period of about five years of considerable, well, let's just say redressing the balance. And I think the same thing happened in the women's movement, and it seems to go in waves. I think we're due for another wave of a somewhat different kind of nationalism fairly shortly."
+        }
+      ],
+      "tags": [],
+      "uuid": "8b887116-2f1f-4f42-93c8-909c551f1941"
+    },
+    {
+      "start_time": 2900,
+      "end_time": 2902,
+      "annotation": [
+        {
+          "text": "Jars Balan:",
+          "bold": true
+        },
+        {
+          "text": " A stronger assertion of ourselves, maybe."
+        }
+      ],
+      "tags": [],
+      "uuid": "98968c3b-1156-4e7d-a44e-3ac89b5d3a58"
+    },
+    {
+      "start_time": 2902,
+      "end_time": 2928.865,
+      "annotation": [
+        {
+          "text": "Margaret Atwood:",
+          "bold": true
+        },
+        {
+          "text": " I think, probably more assured. I think some of the things that went on in the period I'm talking about, '69, '70, '71, around there, some of it was a little bit hysterical, and I don't think you need to be hysterical if you have a certain confidence. And when I look at the writers that we've thrown up over the past 15 years, they're as good as anybody else."
+        }
+      ],
+      "tags": [],
+      "uuid": "ce241ae8-09e8-483a-83a9-4e5eb0a712f9"
+    },
+    {
+      "start_time": 2928.865,
+      "end_time": 2939,
+      "annotation": [
+        {
+          "text": "Jars Balan:",
+          "bold": true
+        },
+        {
+          "text": " Margaret Atwood is a poet and writer whose most recent novels, "
+        },
+        {
+          "text": "Lady Oracle",
+          "italic": true
+        },
+        {
+          "text": " and "
+        },
+        {
+          "text": "Life Before Man",
+          "italic": true
+        },
+        {
+          "text": ", have won her international acclaim."
+        }
+      ],
+      "tags": [],
+      "uuid": "443394ef-a8d9-4496-bbe7-24ea29b0b7b0"
+    },
+    {
+      "start_time": 2939,
+      "end_time": 2944.425,
+      "annotation": [
+        {
+          "text": "Music:",
+          "bold": true
+        },
+        {
+          "text": " [Electronic Music]"
+        }
+      ],
+      "tags": [],
+      "uuid": "1ed63ec1-0b94-46f6-89ee-f33c12667763"
+    },
+    {
+      "start_time": 2944.425,
+      "end_time": 2947,
+      "annotation": [
+        {
+          "text": "Male Voice:",
+          "bold": true
+        },
+        {
+          "text": " Popular Poetics."
+        }
+      ],
+      "tags": [],
+      "uuid": "aba4caed-c418-4d0d-ad8b-808f3568b831"
+    },
+    {
+      "start_time": 2947,
+      "end_time": 2983.225,
+      "annotation": [
+        {
+          "text": "Terry Winnick:",
+          "bold": true
+        },
+        {
+          "text": " The subject of today's reading is the origins of English Canadian poetry. The earliest Canadian poetry in English was produced by United Empire Loyalists, who immigrated to the Maritime provinces after the American Revolution of 1776. The poets of this Loyalist tradition were disappointed Tories like Jonathan Odell and Joseph Stansbury, whose best work consisted of convivial songs and lively political satires, or Puritan evangelists like Henry Alline, who wrote hymns and pious ejaculations."
+        }
+      ],
+      "tags": [],
+      "uuid": "92f54892-d3f5-46b9-a386-10e9f012d788"
+    },
+    {
+      "start_time": 2983.225,
+      "end_time": 3007.995,
+      "annotation": [
+        {
+          "text": "Terry Winnick:",
+          "bold": true
+        },
+        {
+          "text": " The first poet to attempt to write about the challenges of pioneering in the new land was Oliver Goldsmith, who had the good fortune of being the grandnephew and namesake of the famous 18th century English poet. The Canadian Goldsmith was born in Nova Scotia and lived there most of his life, publishing in 1825 an ambitious descriptive poem written in heroic couplets."
+        }
+      ],
+      "tags": [],
+      "uuid": "39ffe52e-0267-4824-83c5-6fa297d17ef1"
+    },
+    {
+      "start_time": 3007.995,
+      "end_time": 3031.035,
+      "annotation": [
+        {
+          "text": "Terry Winnick:",
+          "bold": true
+        },
+        {
+          "text": " Titled \"The Rising Village,\" the poem sketched the development of an eventually happy and prosperous community of Loyalist settlers in the Acadian wilderness. Although the work is a rather pedestrian essay, written in a style that might be described as neoclassic sentimentalism, it is somewhat redeemed by a few vivid touches of realistic description."
+        }
+      ],
+      "tags": [],
+      "uuid": "bc63c870-5109-4beb-80e6-1b9aed750669"
+    },
+    {
+      "start_time": 3031.035,
+      "end_time": 3053.235,
+      "annotation": [
+        {
+          "text": "Terry Winnick:",
+          "bold": true
+        },
+        {
+          "text": " A second early work, written in the same tradition by another Maritime author, is a poem titled \"Acadia,\" a reflective and descriptive narrative that is noteworthy for its painfully vivid rendering of an Indian massacre. It was penned by Joseph Howe, the well-known editor, political philosopher, statesman, and poet."
+        }
+      ],
+      "tags": [],
+      "uuid": "1be4d432-f839-4a27-b2c5-8f162889096c"
+    },
+    {
+      "start_time": 3053.235,
+      "end_time": 3079.145,
+      "annotation": [
+        {
+          "text": "Terry Winnick:",
+          "bold": true
+        },
+        {
+          "text": " It could be said, however, that virtually all of the early Canadian poets were very much under the influence of European literary movements, and thus contributed very little that was original to English verse. It wasn't until the middle of the 19th century that poets such as Alexander MacLachlan, Charles Sangster, and Charles Mair began the difficult work of developing a distinctly Canadian poetic voice."
+        }
+      ],
+      "tags": [],
+      "uuid": "66c58304-c5ce-4534-b2a2-00f3d15edbfc"
+    },
+    {
+      "start_time": 3079.145,
+      "end_time": 3085,
+      "annotation": [
+        {
+          "text": "Terry Winnick:",
+          "bold": true
+        },
+        {
+          "text": " With that we conclude this installment of Popular Poetics, a regular feature of VoicePrint."
+        }
+      ],
+      "tags": [],
+      "uuid": "046861e2-faa8-48ec-a7cf-3445ba6378e5"
+    },
+    {
+      "start_time": 3085,
+      "end_time": 3088.345,
+      "annotation": [
+        {
+          "text": "Music:",
+          "bold": true
+        },
+        {
+          "text": " [Electronic Music]"
+        }
+      ],
+      "tags": [],
+      "uuid": "f2e20e73-9d59-4ebd-b118-d84bdf305d9c"
+    },
+    {
+      "start_time": 3088.345,
+      "end_time": 3089.601,
+      "annotation": [
+        {
+          "text": "Male Voice:",
+          "bold": true
+        },
+        {
+          "text": " Synthesis."
+        }
+      ],
+      "tags": [],
+      "uuid": "96c3ccd0-3d1b-4e23-aeb5-b4bc2555839f"
+    },
+    {
+      "start_time": 3089.601,
+      "end_time": 3111.795,
+      "annotation": [
+        {
+          "text": "Jars Balan:",
+          "bold": true
+        },
+        {
+          "text": " Canadian writers have always had a difficult time winning the respect and recognition of their fellow citizens. It seems they have always had to struggle to survive. In the '60s, Canadian literature in general began to make inroads into public and institutional consciousness, but more often than not, each step forward met with resistance."
+        }
+      ],
+      "tags": [],
+      "uuid": "9ce7f8e4-73a2-41e0-b998-88489d1f9c12"
+    },
+    {
+      "start_time": 3111.795,
+      "end_time": 3137,
+      "annotation": [
+        {
+          "text": "Jars Balan:",
+          "bold": true
+        },
+        {
+          "text": " Today, despite increased public awareness, Canadian literature is still not taught in most high schools, and is often regarded as an inferior course in many post secondary educational institutions. The spectacle of a nation's writers having to fight for access to their most natural audience would surely be comic if it were not so tragic."
+        }
+      ],
+      "tags": [],
+      "uuid": "ef8a22f1-b897-4af8-a3a8-712279eb4b71"
+    },
+    {
+      "start_time": 3137,
+      "end_time": 3140.545,
+      "annotation": [
+        {
+          "text": "Music:",
+          "bold": true
+        },
+        {
+          "text": " [Electronic Music]"
+        }
+      ],
+      "tags": [],
+      "uuid": "8b6797d8-1e4c-484c-aaab-f8dbbd5bce01"
+    },
+    {
+      "start_time": 3140.545,
+      "end_time": 3142,
+      "annotation": [
+        {
+          "text": "Male Voice:",
+          "bold": true
+        },
+        {
+          "text": " Bibliography."
+        }
+      ],
+      "tags": [],
+      "uuid": "9b8ac4c2-60b9-4164-818a-2bfd27116802"
+    },
+    {
+      "start_time": 3142,
+      "end_time": 3160.165,
+      "annotation": [
+        {
+          "text": "Terry Winnick:",
+          "bold": true
+        },
+        {
+          "text": " Expo 67, the Quiet Revolution in Quebec, the Flag Debate, the B&B Report, and mounting concern about foreign ownership of the Canadian economy all contributed to a growing self-awareness on the part of most Canadians in the 1960s."
+        }
+      ],
+      "tags": [],
+      "uuid": "c866e095-ad1a-4329-a940-cc0d789d1857"
+    },
+    {
+      "start_time": 3160.165,
+      "end_time": 3180.925,
+      "annotation": [
+        {
+          "text": "Terry Winnick:",
+          "bold": true
+        },
+        {
+          "text": " As Canadians became increasingly conscious of their distinct identity, public interest in Canadian history and literature also began to rise. Indeed, all of these developments tended to reinforce each other and in combination produced the tide of Canadian nationalism that penetrated even the most remote corners of the country in that turbulent decade."
+        }
+      ],
+      "tags": [],
+      "uuid": "fa66189c-9bd9-4cb4-b679-7eeee8962721"
+    },
+    {
+      "start_time": 3180.925,
+      "end_time": 3210.565,
+      "annotation": [
+        {
+          "text": "Terry Winnick:",
+          "bold": true
+        },
+        {
+          "text": " Two books that can be said to have emerged as part of that general movement are "
+        },
+        {
+          "text": "The Bush Garden: Essays on the Canadian Imagination",
+          "italic": true
+        },
+        {
+          "text": " and "
+        },
+        {
+          "text": "Survival: A Thematic Guide to Canadian Literature",
+          "italic": true
+        },
+        {
+          "text": ". The first was written by the internationally acclaimed literary critic Northrop Frye, a professor of English at the University of Toronto, and was published in 1971 by yet another product of that period, the House of Anansi Press in Toronto."
+        }
+      ],
+      "tags": [],
+      "uuid": "1f5714e3-62bc-4546-bd5b-c6e1671d05ad"
+    },
+    {
+      "start_time": 3210.565,
+      "end_time": 3232.485,
+      "annotation": [
+        {
+          "text": "Terry Winnick:",
+          "bold": true
+        },
+        {
+          "text": " The second book, "
+        },
+        {
+          "text": "Survival",
+          "italic": true
+        },
+        {
+          "text": ", was issued a year later by the same publishers and was the work of another major Canadian literary figure, poet and novelist Margaret Atwood. Although many other books on Canadian literature have appeared since that time, these two remain mandatory reading for anyone seriously interested in learning more about Canadian letters."
+        }
+      ],
+      "tags": [],
+      "uuid": "30163440-67c7-4cbd-99bf-c57029a3d3ff"
+    },
+    {
+      "start_time": 3232.485,
+      "end_time": 3234,
+      "annotation": [
+        {
+          "text": "Male Voice:",
+          "bold": true
+        },
+        {
+          "text": " Last Word."
+        }
+      ],
+      "tags": [],
+      "uuid": "645645f6-625b-43fc-b249-33997d9f4512"
+    },
+    {
+      "start_time": 3234,
+      "end_time": 3250.18085,
+      "annotation": [
+        {
+          "text": "Stringband:",
+          "bold": true
+        },
+        {
+          "text": " [Guitar Music Begins] [Singing] When Sir Wilfrid Laurier was just a young shaver and his favorite thing was swimming in the river, he jumped in the water too soon after dinner, got a cramp in his leg and he woulda been a goner, but his old farm dog come running when he call him and he saves Sir Will for the good of us all."
+        }
+      ],
+      "tags": [],
+      "uuid": "f1633bdb-1b73-4702-938d-7ddc92e9490d"
+    },
+    {
+      "start_time": 3250.18085,
+      "end_time": 3266,
+      "annotation": [
+        {
+          "text": "Stringband:",
+          "bold": true
+        },
+        {
+          "text": " That was a dog for time and trouble, his heart was big though his brain was small. That was a dog to come on the double to his master's voice or his country's call. His scent was strong, his heart was true, the brave that we need today. Let's raise a cheer for the Maple Leaf Dog. Hip, hip, hooray!"
+        }
+      ],
+      "tags": [],
+      "uuid": "e857986f-50b6-40ba-a378-5d9027760592"
+    },
+    {
+      "start_time": 3266,
+      "end_time": 3279.489,
+      "annotation": [
+        {
+          "text": "Stringband:",
+          "bold": true
+        },
+        {
+          "text": " When Sir Robert Gordon and his new bride honeymooned at Niagara, Canadian side, they went for a trip on the Maid of the Mist, but the engine conked out and they started to drift. Just as they got down near the falls, a dog come swimming for the good of us all."
+        }
+      ],
+      "tags": [],
+      "uuid": "59d3f565-9cff-45af-bf7f-9fcf82ae38d0"
+    },
+    {
+      "start_time": 3279.489,
+      "end_time": 3295,
+      "annotation": [
+        {
+          "text": "Stringband:",
+          "bold": true
+        },
+        {
+          "text": " That was a dog for time and trouble, his heart was big though his brain was small. That was a dog to come on the double to his master's voice or his country's call. His scent was strong, his heart was true, the brave that we need today. Let's raise a cheer for the Maple Leaf Dog. Hip, hip, hooray!"
+        }
+      ],
+      "tags": [],
+      "uuid": "0b01d61b-1faa-4289-b3eb-a98e0a5b283c"
+    },
+    {
+      "start_time": 3295,
+      "end_time": 3309,
+      "annotation": [
+        {
+          "text": "Stringband:",
+          "bold": true
+        },
+        {
+          "text": " Now your New Brunswicker, he knows his lumber, and R. B. Bennett was of that number. He was walking in the woods one day when a tree started falling and he was in the way, but his little dog barked and he jumped free, and Bennett was the one who gave us UIC."
+        }
+      ],
+      "tags": [],
+      "uuid": "aa40cae2-c13c-4aa5-bcae-5321c31cd358"
+    },
+    {
+      "start_time": 3309,
+      "end_time": 3327,
+      "annotation": [
+        {
+          "text": "Stringband:",
+          "bold": true
+        },
+        {
+          "text": " That was a dog for time and trouble, his heart was big though his brain was small. That was a dog to come on the double to his master's voice or his country's call. A tribute to his master, a credit to his race, he wagged his tail into furred space. Raise a cheer for the Maple Leaf Dog. Hip, hip, hooray!"
+        }
+      ],
+      "tags": [],
+      "uuid": "88a3ef04-bed3-4161-9c5a-e56748ea8623"
+    },
+    {
+      "start_time": 3327,
+      "end_time": 3375.475,
+      "annotation": [
+        {
+          "text": "Stringband:",
+          "bold": true
+        },
+        {
+          "text": " Your sheepdog's head looks a lot like his ass. Your collie-dog is pretty but she's working class. French poodle'd mount his mother if she wasn't too fast. Mexican chihuahua. Rhodesian ridgeback's intolerant and crude. Turn around, your basset hound is doing something rude. But a Maple Leaf Dog with snow on his nose, true patriot love in his sad brown eyes. The Maple Leaf Dog, he's one of us. He's one of you and I..."
+        }
+      ],
+      "tags": [],
+      "uuid": "2a6c13a3-ea5f-4a97-9f5d-9a7f9f4d7380"
+    },
+    {
+      "start_time": 3375.475,
+      "end_time": 3390,
+      "annotation": [
+        {
+          "text": "Stringband:",
+          "bold": true
+        },
+        {
+          "text": " In 1942, when Mackenzie King didn't know what to do, he walked his dog in the Kingsmere woods till he came in between a bear and her cubs. But little Pat barked and the bear withdrew, and soon King was telling Churchill what to do."
+        }
+      ],
+      "tags": [],
+      "uuid": "2e24e75b-a1b0-4366-8273-5b48e3dd612c"
+    },
+    {
+      "start_time": 3390,
+      "end_time": 3402,
+      "annotation": [
+        {
+          "text": "Stringband:",
+          "bold": true
+        },
+        {
+          "text": " Pat was a dog for a time and trouble! When Louis St. Laurent was a kid in Quebec, he used to walk his dog down the railway track, till the day his foot got stuck as a train was coming. But just his luck, an old red shirt was lying in the lane and the dog grabbed the shirt and he flagged the train."
+        }
+      ],
+      "tags": [],
+      "uuid": "ddac4c11-d8ab-4f28-88df-b83e511cd87f"
+    },
+    {
+      "start_time": 3402,
+      "end_time": 3422,
+      "annotation": [
+        {
+          "text": "Stringband:",
+          "bold": true
+        },
+        {
+          "text": " That was a dog for time and trouble, his heart was big though his brain was small. That was a dog come on the double to his master's voice or his country's call. His scent was strong, his heart was true, the dog rescued Uncle Lou. Raise a cheer for the Maple Leaf Dog. Hip, hip hooray! Hip, hip, hooray! Hip, hip, hooray!"
+        }
+      ],
+      "tags": [],
+      "uuid": "1092ba8c-215b-4714-bee4-ef5662c837a3"
+    },
+    {
+      "start_time": 3422,
+      "end_time": 3435,
+      "annotation": [
+        {
+          "text": "Stringband:",
+          "bold": true
+        },
+        {
+          "text": " Then one winter's day, a long time ago, a snowplow buried Pierre Trudeau. Everyone searched until they gave up, when somebody saw the neighbor's pup, digging in the snow and starting to bark, and but for the dog we'd have Joe Clark."
+        }
+      ],
+      "tags": [],
+      "uuid": "917efdff-ad01-495c-9626-a3cec99dfea1"
+    },
+    {
+      "start_time": 3435,
+      "end_time": 3458.755,
+      "annotation": [
+        {
+          "text": "Stringband:",
+          "bold": true
+        },
+        {
+          "text": " Oh, that was a dog for national unity, that was a dog glorious and free, that was a dog to quell the mutiny, a dog to stand on guard for thee. Raise a cheer for the Maple Leaf Dog. Hip, hip, hooray! Hip, hip, hooray! Hip, hip, hooray!"
+        }
+      ],
+      "tags": [],
+      "uuid": "275cc6ae-4e1f-437f-9b4d-0c952ff8600b"
+    },
+    {
+      "start_time": 3458.755,
+      "end_time": 3500.575,
+      "annotation": [
+        {
+          "text": "Stringband:",
+          "bold": true
+        },
+        {
+          "text": " [Music Continues Over Recording of Mackenzie King Giving a Speech] None of you can begin to know what it means to have close associations, as I've had with this little, as I had with this little Irish Terrier, over 17 years. 17 years today. I would like to recall some of the, some of the lessons that he has taught me in the matter of fidelity. If I have been true to some of the great causes that I have sought to remain true to, been the example of that little fellow, that has helped in many, many ways. [Speech and Music End]"
+        }
+      ],
+      "tags": [],
+      "uuid": "26329bcd-45bb-439f-8fb8-705da2139864"
+    },
+    {
+      "start_time": 3500.575,
+      "end_time": 3503.215,
+      "annotation": [
+        {
+          "text": "Male Voice:",
+          "bold": true
+        },
+        {
+          "text": " Applause."
+        }
+      ],
+      "tags": [],
+      "uuid": "005d656b-f793-4af0-8317-4e86313d268e"
+    },
+    {
+      "start_time": 3503.215,
+      "end_time": 3523.365,
+      "annotation": [
+        {
+          "text": "Jars Balan:",
+          "bold": true
+        },
+        {
+          "text": " I would like to thank all of my guests and participants on this 100% Canadian edition of VoicePrint. Dr. Jack Chambers of the University of Toronto, Dr. Grace Jolly of York University, poet and novelist Margaret Atwood, and the members and friends of the folk group Stringband."
+        }
+      ],
+      "tags": [],
+      "uuid": "99be7eeb-b903-450e-9287-19400f140527"
+    },
+    {
+      "start_time": 3523.365,
+      "end_time": 3547,
+      "annotation": [
+        {
+          "text": "Jars Balan:",
+          "bold": true
+        },
+        {
+          "text": " I would also like to extend a special thanks to the one and only Charlie Farquharson, who is, of course, the creation of the multitalented Don Harron. Equipment for the Toronto tapings was generously provided by Stagetech Sound and Lighting. Readings were by Anna Altman, Terry Winnick, and Roman Onufrijchuk."
+        }
+      ],
+      "tags": [],
+      "uuid": "97572e34-6bcf-470e-8872-cec9ca4df450"
+    },
+    {
+      "start_time": 3547,
+      "end_time": 3557.075,
+      "annotation": [
+        {
+          "text": "Music:",
+          "bold": true
+        },
+        {
+          "text": " [Electronic Music]"
+        }
+      ],
+      "tags": [],
+      "uuid": "6f8b5359-2712-4df9-86f4-875daf7de32e"
+    },
+    {
+      "start_time": 3557.075,
+      "end_time": 3572.845,
+      "annotation": [
+        {
+          "text": "Male Voice:",
+          "bold": true
+        },
+        {
+          "text": " VoicePrint. Produced and presented by Jars Balan. VoicePrint. Executive producer Roman Onufrijchuk. VoicePrint. Produced for the Department of Radio and Television, University of Alberta. [Electronic Music Ends]"
+        }
+      ],
+      "tags": [],
+      "uuid": "925ace01-b2a8-4dec-bd75-dfde476fc6ec"
+    }
+  ]
+}
