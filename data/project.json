@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "tanyaclement",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1213771?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "tanyaclement",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2025-06-30T19:47:51.699Z",
-    "updated_at": "2025-06-30T19:47:51.699Z"
-  }
+    "updated_at": "2025-06-30T19:47:51.699Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "bd093526-5344-4d49-ad94-f779820ef09d": {
+      "content": [],
+      "created_at": "2025-06-30T19:47:51.736Z",
+      "created_by": "tanyaclement",
+      "title": "testing ogg files",
+      "updated_at": "2025-06-30T19:47:51.736Z",
+      "updated_by": "tanyaclement",
+      "autogenerate": {
+        "enabled": false,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "bd093526-5344-4d49-ad94-f779820ef09d"
+  ]
 }
