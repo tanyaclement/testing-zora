@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-07-01T02:27:53.245Z",
+  "created_by": "tanyaclement",
+  "title": "IA video with .vtt files",
+  "slug": "ia-video-with-vtt-files",
+  "updated_at": "2025-07-01T02:27:53.245Z",
+  "updated_by": "tanyaclement",
+  "parent": "bd093526-5344-4d49-ad94-f779820ef09d",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "9f0f4feb-2f05-4429-a96f-0767710a0ba4"
+  }
+}
