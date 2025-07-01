@@ -25,6 +25,9 @@
   "label": "IA video with .vtt files",
   "created_at": "2025-07-01T02:27:52.607Z",
   "created_by": "tanyaclement",
-  "updated_at": "2025-07-01T02:27:52.607Z",
-  "updated_by": "tanyaclement"
+  "updated_at": "2025-07-01T02:29:18.418Z",
+  "updated_by": "tanyaclement",
+  "av_file_order": [
+    "ac0e7b2c-da23-4d6e-ab29-318027b68bea"
+  ]
 }
