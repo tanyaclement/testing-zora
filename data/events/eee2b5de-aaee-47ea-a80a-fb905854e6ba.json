@@ -12,7 +12,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "This is a test. "
         }
       ]
     }
@@ -21,6 +21,9 @@
   "created_by": "tanyaclement",
   "item_type": "Video",
   "label": "Readings and Discussion Featuring UAlberta Writer in Residence Ifeoma Chinwuba and Edmonton Poet Laureate Titilope Sonuga, 2022",
-  "updated_at": "2025-07-15T15:17:01.628Z",
-  "updated_by": "tanyaclement"
+  "updated_at": "2025-07-15T15:19:30.162Z",
+  "updated_by": "tanyaclement",
+  "av_file_order": [
+    "184b3b2c-91c5-4d5e-b9cd-df7aea98faad"
+  ]
 }
