@@ -4,7 +4,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "This is fora class where <i want to include just a clip."
         }
       ]
     },
@@ -13,14 +13,16 @@
       "uuid": "373d43c7-e84f-4f65-99cd-56f7df53178d",
       "includes": [
         "media",
-        "annotations",
-        "description"
+        "annotations"
       ],
       "children": [
         {
           "text": ""
         }
-      ]
+      ],
+      "start": 60,
+      "end": 72,
+      "file": "c2575d96-6259-40e9-9435-2ad0061ad572"
     },
     {
       "type": "paragraph",
@@ -35,9 +37,9 @@
   "created_by": "tanyaclement",
   "title": "Suspense Film",
   "slug": "suspense-film",
-  "updated_at": "2025-07-15T15:20:13.461Z",
+  "updated_at": "2025-07-15T15:21:30.300Z",
   "updated_by": "tanyaclement",
-  "parent": "bd093526-5344-4d49-ad94-f779820ef09d",
+  "parent": "384698eb-a0c3-46c7-9d91-2732df321b99",
   "autogenerate": {
     "enabled": false,
     "type": "event",
