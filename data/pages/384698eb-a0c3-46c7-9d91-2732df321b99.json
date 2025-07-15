@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-07-15T15:05:21.332Z",
+  "created_by": "tanyaclement",
+  "title": "The Lonely Villa Film",
+  "slug": "the-lonely-villa-film",
+  "updated_at": "2025-07-15T15:05:21.332Z",
+  "updated_by": "tanyaclement",
+  "parent": "bd093526-5344-4d49-ad94-f779820ef09d",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "4c70ba45-e530-44ae-8773-3b87569130af"
+  }
+}

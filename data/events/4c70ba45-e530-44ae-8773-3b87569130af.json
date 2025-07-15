@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "390f7f15-8454-4776-ac21-e0770d5d66b2": {
+      "label": "The Lonely Villa Film",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/watch?v=kaLZ6sRPk2M&ab_channel=Iconauta",
+      "duration": 1800
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "The Lonely Villa Film",
+  "created_at": "2025-07-15T15:05:20.651Z",
+  "created_by": "tanyaclement",
+  "updated_at": "2025-07-15T15:05:20.651Z",
+  "updated_by": "tanyaclement"
+}
